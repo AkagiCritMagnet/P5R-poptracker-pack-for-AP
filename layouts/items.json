@@ -1,0 +1,28 @@
+{
+    "Items": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 5",
+                        "h_alignment": "left",
+						"item_size": 60,
+                        "rows": [
+                            ["Grappling_Hook"],
+							["Kamoshidas_Medal", "Left_Eye","Right_Eye"],
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    
+}

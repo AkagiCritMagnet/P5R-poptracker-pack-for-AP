@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Okumura Palace",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 810,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "test Okumura",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  //Okumura Palace Items map
+  {
+    "item_count": 1,
+    "children": [
+      {
+        "sections": [
+          {
+            "ref": "Okumura Palace/test Okumura",
+            "name": "test Okumura"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 235,
+            "y": 274,
+			"size": 20
+          }
+        ]
+      },
+ 
+      
+    ]
+  },
+  
+ 
+]

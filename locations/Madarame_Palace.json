@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Museum of Vanity",
+    "access_rules": ["Grappling_Hook"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 254,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		  //ID 0x20000352
+        "name": "Museum 1F Information Desk Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x20000366
+        "name": "Museum 1F Information Desk Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x20000354
+        "name": "Museum 1F First Exhibition Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x20000353
+        "name": "Museum 1F First Exhibition Behind Obstacle Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x20000355
+        "name": "Museum 2F WC Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x2000035B
+        "name": "Museum 2F Near Will Seed Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x2000035A
+        "name": "Museum 2F Balcony Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 0x200013FB
+        "name": "Museum 2F Red Will Seed",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  
+
+ 
+    ]
+  },
+  
+  {
+    "name": "Museum of Vanity after Change in Cognition",
+    "access_rules": ["Grappling_Hook"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 286,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+		{
+		  //ID 0x2000035C
+        "name": "Treasure Hall Lounge Dead End Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x2000035D
+        "name": "Treasure Hall Lounge Near Control Room Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000369
+        "name": "Treasure Hall Lounge Near Control Room Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000368
+        "name": "Treasure Hall Lounge Laser Grid Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x2000035E
+        "name": "Treasure Hall Lounge Laser Grid Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000360
+        "name": "Treasure Hall Gallery Guarded Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x2000035F
+        "name": "Treasure Hall Gallery Near Switch Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x200013FC
+        "name": "Treasure Hall Gallery Green Will Seed",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000364
+        "name": "??? Maze Near Entrance Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },   
+	   {
+		  //ID 0x20000365
+        "name": "??? Maze Behind Small Fake Wall Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000363
+        "name": "??? Maze Near True Sayuri Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000361
+        "name": "??? Maze Exit Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x2000036A
+        "name": "Main Treasure Hall Behind Vent Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x200013FD
+        "name": "Main Treasure Hall Blue Will Seed",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	   {
+		  //ID 0x20000362
+        "name": "Main Treasure Hall Before Hook Controls Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+       },
+	]
+  },
+	
+  //Madarame Palace Items map
+  {
+    "item_count": 1,
+    "children": [
+      {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 1F Information Desk Chest",
+            "name": "Museum 1F Information Desk Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 346,
+            "y": 1302,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 1F Information Desk Locked Chest",
+            "name": "Museum 1F Information Desk Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 254,
+            "y": 1298,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 1F First Exhibition Chest",
+            "name": "Museum 1F First Exhibition Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 238,
+            "y": 994,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 1F First Exhibition Behind Obstacle Chest",
+            "name": "Museum 1F First Exhibition Behind Obstacle Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 362,
+            "y": 994,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 2F WC Chest",
+            "name": "Museum 2F WC Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 562,
+            "y": 800,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 2F Near Will Seed Chest",
+            "name": "Museum 2F Near Will Seed Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 136,
+            "y": 608,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 2F Balcony Chest",
+            "name": "Museum 2F Balcony Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 260,
+            "y": 638,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity/Museum 2F Red Will Seed",
+            "name": "Museum 2F Red Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 50,
+            "y": 610,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Dead End Chest",
+            "name": "Treasure Hall Lounge Dead End Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 288,
+            "y": 212,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Near Control Room Chest",
+            "name": "Treasure Hall Lounge Near Control Room Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 278,
+            "y": 132,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Near Control Room Locked Chest",
+            "name": "Treasure Hall Lounge Near Control Room Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 328,
+            "y": 48,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Laser Grid Locked Chest",
+            "name": "Treasure Hall Lounge Laser Grid Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 390,
+            "y": 152,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Laser Grid Chest",
+            "name": "Treasure Hall Lounge Laser Grid Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 420,
+            "y": 152,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Gallery Guarded Chest",
+            "name": "Treasure Hall Gallery Guarded Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 1018,
+            "y": 194,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Gallery Near Switch Chest",
+            "name": "Treasure Hall Gallery Near Switch Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 1066,
+            "y": 132,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Gallery Green Will Seed",
+            "name": "Treasure Hall Gallery Green Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 1048,
+            "y": 292,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze Near Entrance Chest",
+            "name": "??? Maze Near Entrance Chest"
+          },
+		  {
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze Behind Small Fake Wall Chest",
+            "name": "??? Maze Behind Small Fake Wall Chest"
+          },
+		  {
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze Near True Sayuri Chest",
+            "name": "??? Maze Near True Sayuri Chest"
+          },
+		  {
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze Exit Chest",
+            "name": "??? Maze Behind Small Fake Wall Chest"
+          },
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 938,
+            "y": 458,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Main Treasure Hall Behind Vent Locked Chest",
+            "name": "Main Treasure Hall Behind Vent Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 1016,
+            "y": 790,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Main Treasure Hall Blue Will Seed",
+            "name": "Main Treasure Hall Blue Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 756,
+            "y": 794,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Main Treasure Hall Before Hook Controls Chest",
+            "name": "Main Treasure Hall Before Hook Controls Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 904,
+            "y": 906,
+			"size": 20
+          }
+        ]
+      },
+	  
+
+      
+    ]
+  },
+  
+ 
+]

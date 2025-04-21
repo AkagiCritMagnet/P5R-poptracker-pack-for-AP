@@ -1,0 +1,1543 @@
+[
+  {
+    "name": "The Chariot Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 721,
+        "y": 471,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Empress Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 753,
+        "y": 471,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Priestress Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 785,
+        "y": 471,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Lovers Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 567,
+        "y": 474,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Emperor Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 599,
+        "y": 474,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Hanged Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 567,
+        "y": 506,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Sun Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 599,
+        "y": 506,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Hierophant Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 298,
+        "y": 573,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  
+  {
+    "name": "The Hermit Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 330,
+        "y": 573,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Death Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 362,
+        "y": 573,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Temperance Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 394,
+        "y": 573,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Moon Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 521,
+        "y": 307,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Fortune Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 552,
+        "y": 307,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Devil Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 584,
+        "y": 307,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Justice Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 219,
+        "y": 301,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Faith Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 251,
+        "y": 301,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Tower Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 1117,
+        "y": 309,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Star Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 1231,
+        "y": 409,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Fool Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 69,
+        "y": 535,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Magician Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 110,
+        "y": 535,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  {
+    "name": "The Strength Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 69,
+        "y": 576,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "The Judgement Arcana",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 110,
+        "y": 576,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rank 1",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 2",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 3",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 4",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 5",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 6",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 7",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 8",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 9",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+        "name": "Rank 10",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+
+ 
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Niijima Palace",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 980,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "test Niijima",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  //Niijima Palace Items map
+  {
+    "item_count": 1,
+    "children": [
+      {
+        "sections": [
+          {
+            "ref": "Niijima Palace/test Niijima",
+            "name": "test Niijima"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Niijima_Palace",
+            "x": 235,
+            "y": 274,
+			"size": 20
+          }
+        ]
+      },
+ 
+      
+    ]
+  },
+  
+ 
+]

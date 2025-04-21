@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Grappling Hook",
+    "type": "toggle",
+    "img": "images/items/GrapplingHook.jpg",
+    "codes": "Grappling_Hook"
+  },
+   {
+    "name": "Kamoshida's Medal",
+    "type": "toggle",
+    "img": "images/items/KamoshidasMedal.png",
+    "codes": "Kamoshidas_Medal"
+  },
+  {
+    "name": "Left Eye",
+    "type": "toggle",
+    "img": "images/items/Left_Eye.png",
+    "codes": "Left_Eye"
+  },
+  {
+    "name": "Right Eye",
+    "type": "toggle",
+    "img": "images/items/Right_Eye.png",
+    "codes": "Right_Eye"
+  },
+
+ 
+ 
+  
+ 
+
+]

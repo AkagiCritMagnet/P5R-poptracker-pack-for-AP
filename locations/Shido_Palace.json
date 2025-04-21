@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Shido Palace",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 1150,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "test Shido",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  //Shido Palace Items map
+  {
+    "item_count": 1,
+    "children": [
+      {
+        "sections": [
+          {
+            "ref": "Shido Palace/test Shido",
+            "name": "test Shido"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 235,
+            "y": 274,
+			"size": 20
+          }
+        ]
+      },
+ 
+      
+    ]
+  },
+  
+ 
+]

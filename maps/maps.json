@@ -1,0 +1,59 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+[
+    {
+        "name": "Overworld",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/worldmap.png"
+    },
+	{
+        "name": "Kamoshida_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/KamoshidaCastle.png"
+    },
+	{
+        "name": "Madarame_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Museum_Map.png"
+    },
+	{
+        "name": "Kaneshiro_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Akihabara.png"
+    },
+	{
+        "name": "Futaba_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Akihabara.png"
+    },
+	{
+        "name": "Okumura_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Akihabara.png"
+    },
+	{
+        "name": "Niijima_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Akihabara.png"
+    },
+	{
+        "name": "Shido_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Akihabara.png"
+    },
+]

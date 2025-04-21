@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Akihabara",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 1065,
+        "y": 277,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+        "name": "test akihabara Arcade",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  //Akihabara Items map
+  {
+    "item_count": 1,
+    "children": [
+      {
+        "sections": [
+          {
+            "ref": "Akihabara/test akihabara Arcade",
+            "name": "test akihabara"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Akihabara",
+            "x": 235,
+            "y": 274,
+			"size": 20
+          }
+        ]
+      },
+ 
+      
+    ]
+  },
+  
+ 
+]

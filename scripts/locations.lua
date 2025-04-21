@@ -1,0 +1,8 @@
+Tracker:AddLocations("locations/Kamoshida_Palace.json")
+Tracker:AddLocations("locations/Madarame_Palace.json")
+Tracker:AddLocations("locations/Kaneshiro_Palace.json")
+Tracker:AddLocations("locations/Futaba_Palace.json")
+Tracker:AddLocations("locations/Okumura_Palace.json")
+Tracker:AddLocations("locations/Niijima_Palace.json")
+Tracker:AddLocations("locations/Shido_Palace.json")
+Tracker:AddLocations("locations/Social_Links.json")
