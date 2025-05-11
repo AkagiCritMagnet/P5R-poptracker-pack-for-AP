@@ -1,7 +1,55 @@
 [
   {
-    "name": "Futaba Palace",
-    "access_rules": [],
+    "name": "Pyramid of Wrath Underground",
+    "access_rules": ["Papyrus"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 599,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		// ID 0x20000673
+        "name": "Underground Cavern Lowest Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000674 (Despair Vial S Chest)
+        "name": "Underground Cavern Top Chest 1",
+		"access_rules": ["Grappling_Hook"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000672 (Invincible Ofuda Chest)
+        "name": "Underground Cavern Top Chest 2",
+		"access_rules": ["Grappling_Hook"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000675
+        "name": "Underground Corridor Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  
+	  
+
+ 
+    ]
+  },
+  
+  {
+    "name": "Pyramid of Wrath Chambers of Rejection and Guilt",
+    "access_rules": ["Papyrus, Grappling_Hook, $has|Abyss_Gems|2"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "item_count": 1,
@@ -15,30 +63,433 @@
     ],
     "sections": [
       {
-        "name": "test Futaba",
+		// ID 0x20000677
+        "name": "Chamber of Rejection 1F Chest",
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
+	  {
+		// ID 0x20000676
+        "name": "Chamber of Rejection 2F Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000686
+        "name": "Chamber of Rejection 2F Locked Chest",
+		"access_rules": ["Rejection_Gem"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x200013FB
+        "name": "Chamber of Rejection Red Will Seed",
+		"access_rules": ["Rejection_Gem"],
+		"chest_unopened_img": "images/items/RedSeed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000679
+        "name": "Chamber of Guilt Sarcophagi Chest",
+		"access_rules": ["Rejection_Gem"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000678
+        "name": "Chamber of Guilt Near Will Seed Chest",
+		"access_rules": ["Rejection_Gem"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x200013FC
+        "name": "Chamber of Guilt Green Will Seed",
+		"access_rules": ["Rejection_Gem"],
+		"chest_unopened_img": "images/items/GreenSeed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  ]
+  },
+	  
+	  {
+    "name": "Pyramid of Wrath Chambers of Sanctuary and Emptiness",
+    "access_rules": ["Papyrus, Grappling_Hook, $has|Abyss_Gems|2, Rejection_Gem, Serenity_Gem"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 661,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		// ID 0x2000067A
+        "name": "Chamber of Sanctuary 1F Trapped Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000687
+        "name": "Chamber of Sanctuary 1F Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x2000067B
+        "name": "Chamber of Sanctuary 2F Antechamber Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x20000688
+        "name": "Chamber of Sanctuary 2F Platform Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x2000067C
+        "name": "Chamber of Sanctuary 2F Ledge Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x200013FD
+        "name": "Chamber of Sanctuary Blue Will Seed",
+		"chest_unopened_img": "images/items/BlueSeed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 0x2000067D
+        "name": "Chamber of Emptiness Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		// ID 
+        "name": "Pyramid Boss",
+		"access_rules": "$hasBossAccess|4",
+		"chest_unopened_img": "images/Bosses/Tomb_Boss.png",
+		"chest_opened_img": "images/Bosses/Skull.png",
+      },
+	  
+	  
+
+	  
+	  
 
  
     ]
   },
-  //Futaba Palace Items map
+  
+  //Pyramid of Wrath Items map
   {
     "item_count": 1,
     "children": [
       {
         "sections": [
           {
-            "ref": "Futaba Palace/test Futaba",
-            "name": "test Futaba"
+            "ref": "Pyramid of Wrath Underground/Underground Cavern Lowest Chest",
+            "name": "Underground Cavern Lowest Chest"
           }
         ],
         "map_locations": [
           {
             "map": "Futaba_Palace",
-            "x": 235,
-            "y": 274,
+            "x": 1247,
+            "y": 1192,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Underground/Underground Cavern Top Chest 1",
+            "name": "Underground Cavern Top Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 1342,
+            "y": 1050,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Underground/Underground Cavern Top Chest 2",
+            "name": "Underground Cavern Top Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 1373,
+            "y": 1085,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Underground/Underground Corridor Chest",
+            "name": "Underground Corridor Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 1341,
+            "y": 933,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection 1F Chest",
+            "name": "Chamber of Rejection 1F Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 688,
+            "y": 766,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection 2F Chest",
+            "name": "Chamber of Rejection 2F Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 739,
+            "y": 594,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection 2F Locked Chest",
+            "name": "Chamber of Rejection 2F Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 768,
+            "y": 751,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection Red Will Seed",
+            "name": "Chamber of Rejection Red Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 855,
+            "y": 761,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Guilt Sarcophagi Chest",
+            "name": "Chamber of Guilt Sarcophagi Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 1444,
+            "y": 349,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Guilt Near Will Seed Chest",
+            "name": "Chamber of Guilt Near Will Seed Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 1387,
+            "y": 270,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Guilt Green Will Seed",
+            "name": "Chamber of Guilt Green Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 1445,
+            "y": 220,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 1F Trapped Chest",
+            "name": "Chamber of Sanctuary 1F Trapped Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 505,
+            "y": 400,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 1F Locked Chest",
+            "name": "Chamber of Sanctuary 1F Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 795,
+            "y": 105,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 2F Antechamber Chest",
+            "name": "Chamber of Sanctuary 2F Antechamber Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 311,
+            "y": 243,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 2F Platform Locked Chest",
+            "name": "Chamber of Sanctuary 2F Platform Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 341,
+            "y": 298,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 2F Ledge Chest",
+            "name": "Chamber of Sanctuary 2F Ledge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 198,
+            "y": 445,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary Blue Will Seed",
+            "name": "Chamber of Sanctuary Blue Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 115,
+            "y": 557,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Emptiness Chest",
+            "name": "Chamber of Emptiness Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 283,
+            "y": 1016,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Pyramid Boss",
+            "name": "Pyramid Boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Futaba_Palace",
+            "x": 94,
+            "y": 1089,
 			"size": 20
           }
         ]

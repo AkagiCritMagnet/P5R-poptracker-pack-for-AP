@@ -15,14 +15,38 @@
                         "h_alignment": "left",
 						"item_size": 60,
                         "rows": [
-                            ["Grappling_Hook"],
-							["Kamoshidas_Medal", "Left_Eye","Right_Eye"],
+                            ["Grappling_Hook", "Coffee_Basics"],
                         ]
                     }
                 ]
             }
         ]
     },
-    
+	"Dungeons_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 5",
+                        "h_alignment": "left",
+						"item_size": 60,
+                        "rows": [
+                            ["Kamoshidas_Medal", "Left_Eye","Right_Eye", "Lust_Seeds"],
+							["Vanity_Seeds"],
+							["Keycard", "Bank_Keys", "Gluttony_Seeds"],
+							["Papyrus", "Abyss_Gems", "Rejection_Gem", "Serenity_Gem", "Wrath_Seeds"],
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
     
 }

@@ -103,7 +103,7 @@
 	  {
 		  //ID 0x200013FB
         "name": "Old Castle 3F Red Will Seed",
-		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_unopened_img": "images/items/RedSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
@@ -123,14 +123,14 @@
 		  //ID 0x200013FC
         "name": "Roof Green Will Seed",
 		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_unopened_img": "images/items/GreenSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		  //ID 0x200013FD
         "name": "Blue Will Seed",
 		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_unopened_img": "images/items/BlueSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
@@ -216,6 +216,14 @@
         "name": "Throne Room Grapple Window Chest",
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  
+	  {
+		  //ID 
+        "name": "Castle Boss",
+		"access_rules": "$hasBossAccess|1",
+		"chest_unopened_img": "images/Bosses/Castle_Boss.png",
+		"chest_opened_img": "images/Bosses/Skull.png",
       },
 	
 	]
@@ -636,6 +644,23 @@
             "map": "Kamoshida_Palace",
             "x": 870,
             "y": 436,
+			"size": 20
+          }
+        ]
+      },
+	  
+	  {
+        "sections": [
+          {
+            "ref": "Castle of Lust After Eyes/Castle Boss",
+            "name": "Castle Boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 834,
+            "y": 374,
 			"size": 20
           }
         ]

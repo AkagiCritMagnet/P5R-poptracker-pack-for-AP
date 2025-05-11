@@ -26,14 +26,14 @@
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
-        "img": "images/maps/Akihabara.png"
+        "img": "images/maps/Bank_Map.png"
     },
 	{
         "name": "Futaba_Palace",
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
-        "img": "images/maps/Akihabara.png"
+        "img": "images/maps/Tomb_Map.png"
     },
 	{
         "name": "Okumura_Palace",

@@ -59,7 +59,7 @@
 	  {
 		  //ID 0x200013FB
         "name": "Museum 2F Red Will Seed",
-		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_unopened_img": "images/items/RedSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  
@@ -128,7 +128,7 @@
 	   {
 		  //ID 0x200013FC
         "name": "Treasure Hall Gallery Green Will Seed",
-		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_unopened_img": "images/items/GreenSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
        },
 	   {
@@ -164,7 +164,7 @@
 	   {
 		  //ID 0x200013FD
         "name": "Main Treasure Hall Blue Will Seed",
-		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_unopened_img": "images/items/BlueSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
        },
 	   {
@@ -173,6 +173,14 @@
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
        },
+	   
+	   {
+		  //ID 
+        "name": "Museum Boss",
+		"access_rules": "$hasBossAccess|2",
+		"chest_unopened_img": "images/Bosses/Museum_Boss.png",
+		"chest_opened_img": "images/Bosses/Skull.png",
+      },
 	]
   },
 	
@@ -508,6 +516,23 @@
             "map": "Madarame_Palace",
             "x": 904,
             "y": 906,
+			"size": 20
+          }
+        ]
+      },
+	  
+	  {
+        "sections": [
+          {
+            "ref": "Museum of Vanity after Change in Cognition/Museum Boss",
+            "name": "Museum Boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Madarame_Palace",
+            "x": 902,
+            "y": 1094,
 			"size": 20
           }
         ]

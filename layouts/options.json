@@ -7,52 +7,16 @@
       "type": "tabbed",
       "tabs": [
         {
-          "title": "Mode and Goal",
+          "title": "Options",
           "content": [
             {
               "type": "itemgrid",
               "item_h_alignment": "left",
-              "item_size": "400, 33",
+              "item_size": "400, 60",
               "rows": [
-				[ "PastDanaMode" ],
+				[ "Boss_Access"],
 				[],
-                [ "Escape" ],
-				[ "Untouchable" ],
-				[],
-				[ "Castaways_toggle" ],
-                [ "Castaways_Goal" ],
-                [ "Castaways_Octus" ],
-				[],
-				[ "Psyches_toggle" ],
-                [ "Psyches_Goal" ],
-				[ "Psyches_Octus" ],
 
-              ]
-            }
-          ]
-        },
-		{
-          "title": "Locations settings",
-          "content": [
-            {
-              "type": "itemgrid",
-              "item_h_alignment": "left",
-              "item_size": "400, 35",
-              "rows": [
-                [ "Prismatic" ],
-				[ "fish_trades" ],
-				[ "food_trades" ],
-				[ "exploration" ],
-				[ "discoveries" ],
-				[ "intercept_rewards" ],
-				[ "kong_rewards" ],
-				[ "silvia_fight" ],
-				[ "mephorash_fight" ],
-				[ "FSC access" ],
-				[ "NorthSideOpen" ],
-				[ "landmark_sanity" ],
-				
-				
 
               ]
             }

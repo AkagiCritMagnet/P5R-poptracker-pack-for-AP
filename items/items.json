@@ -5,6 +5,12 @@
     "img": "images/items/GrapplingHook.jpg",
     "codes": "Grappling_Hook"
   },
+  {
+    "name": "Coffee Basics",
+    "type": "toggle",
+    "img": "images/items/Coffee.jpg",
+    "codes": "Coffee_Basics"
+  },
    {
     "name": "Kamoshida's Medal",
     "type": "toggle",
@@ -23,6 +29,86 @@
     "img": "images/items/Right_Eye.png",
     "codes": "Right_Eye"
   },
+  {
+    "name": "Lust Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Lust_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  {
+    "name": "Vanity Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Vanity_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  {
+    "name": "Keycard",
+    "type": "toggle",
+    "img": "images/items/Keycard.png",
+    "codes": "Keycard"
+  },
+  {
+    "name": "Bank Keys",
+    "type": "consumable",
+    "img": "images/items/Key.png",
+    "codes": "Bank_Keys",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 2
+  },
+  {
+    "name": "Gluttony Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Gluttony_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  {
+    "name": "Stolen Papyrus",
+    "type": "toggle",
+    "img": "images/items/Papyrus.png",
+    "codes": "Papyrus"
+  },
+  {
+    "name": "Abyss Gems",
+    "type": "consumable",
+    "img": "images/items/Abyss_Gem.png",
+    "codes": "Abyss_Gems",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 2
+  },
+  {
+    "name": "Rejection Gem",
+    "type": "toggle",
+    "img": "images/items/Rejection_Gem.png",
+    "codes": "Rejection_Gem"
+  },
+  {
+    "name": "Serenity Gem",
+    "type": "toggle",
+    "img": "images/items/Serenity_Gem.png",
+    "codes": "Serenity_Gem"
+  },
+  {
+    "name": "Wrath Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Wrath_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  
+
 
  
  
