@@ -54,6 +54,7 @@
 	  {
 		  //ID 0x200001D3
         "name": "Old Castle 3F Near Library Chest",
+		"access_rules": ["Grappling_Hook"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
@@ -62,7 +63,7 @@
 },
 {
     "name": "Castle of Lust After Medal",
-    "access_rules": ["Kamoshidas_Medal"],
+    "access_rules": ["Kamoshidas_Medal, Grappling_Hook"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "item_count": 1,
