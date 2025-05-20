@@ -93,16 +93,34 @@
     "codes": "Rejection_Gem"
   },
   {
-    "name": "Serenity Gem",
-    "type": "toggle",
-    "img": "images/items/Serenity_Gem.png",
-    "codes": "Serenity_Gem"
+    "name": "Sanctuary Gems",
+    "type": "consumable",
+    "img": "images/items/Sanctuary_Gem.png",
+    "codes": "Sanctuary_Gems",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 2
   },
   {
     "name": "Wrath Seeds",
     "type": "consumable",
     "img": "images/items/Will_Seed.png",
     "codes": "Wrath_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  {
+    "name": "Chief Director ID",
+    "type": "toggle",
+    "img": "images/items/Chief_Director_ID.png",
+    "codes": "Chief_Director_ID"
+  },
+  {
+    "name": "Greed Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Greed_Seeds",
 	"initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 3

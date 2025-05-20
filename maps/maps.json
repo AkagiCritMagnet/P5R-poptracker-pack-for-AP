@@ -40,20 +40,20 @@
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
-        "img": "images/maps/Akihabara.png"
+        "img": "images/maps/Spaceport_Map.png"
     },
 	{
         "name": "Niijima_Palace",
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
-        "img": "images/maps/Akihabara.png"
+        "img": "images/maps/Casino_Map.png"
     },
 	{
         "name": "Shido_Palace",
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
-        "img": "images/maps/Akihabara.png"
+        "img": "images/maps/Cruiser_Map.png"
     },
 ]

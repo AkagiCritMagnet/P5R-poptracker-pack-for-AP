@@ -49,7 +49,7 @@
   
   {
     "name": "Pyramid of Wrath Chambers of Rejection and Guilt",
-    "access_rules": ["Papyrus, Grappling_Hook, $has|Abyss_Gems|2"],
+    "access_rules": ["Papyrus, Grappling_Hook, $has|Abyss_Gems|2, Rejection_Gem"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "item_count": 1,
@@ -77,35 +77,30 @@
 	  {
 		// ID 0x20000686
         "name": "Chamber of Rejection 2F Locked Chest",
-		"access_rules": ["Rejection_Gem"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x200013FB
         "name": "Chamber of Rejection Red Will Seed",
-		"access_rules": ["Rejection_Gem"],
 		"chest_unopened_img": "images/items/RedSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x20000679
         "name": "Chamber of Guilt Sarcophagi Chest",
-		"access_rules": ["Rejection_Gem"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x20000678
         "name": "Chamber of Guilt Near Will Seed Chest",
-		"access_rules": ["Rejection_Gem"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x200013FC
         "name": "Chamber of Guilt Green Will Seed",
-		"access_rules": ["Rejection_Gem"],
 		"chest_unopened_img": "images/items/GreenSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
@@ -114,7 +109,7 @@
 	  
 	  {
     "name": "Pyramid of Wrath Chambers of Sanctuary and Emptiness",
-    "access_rules": ["Papyrus, Grappling_Hook, $has|Abyss_Gems|2, Rejection_Gem, Serenity_Gem"],
+    "access_rules": ["Papyrus, Grappling_Hook, $has|Abyss_Gems|2, Rejection_Gem"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "item_count": 1,
@@ -136,43 +131,49 @@
 	  {
 		// ID 0x20000687
         "name": "Chamber of Sanctuary 1F Locked Chest",
+		"access_rules": ["$has|Sanctuary_Gems"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x2000067B
         "name": "Chamber of Sanctuary 2F Antechamber Chest",
+		"access_rules": ["$has|Sanctuary_Gems|2"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x20000688
         "name": "Chamber of Sanctuary 2F Platform Locked Chest",
+		"access_rules": ["$has|Sanctuary_Gems|2"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x2000067C
         "name": "Chamber of Sanctuary 2F Ledge Chest",
+		"access_rules": ["$has|Sanctuary_Gems|2"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x200013FD
         "name": "Chamber of Sanctuary Blue Will Seed",
+		"access_rules": ["$has|Sanctuary_Gems|2"],
 		"chest_unopened_img": "images/items/BlueSeed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 0x2000067D
         "name": "Chamber of Emptiness Chest",
+		"access_rules": ["$hasBossAccess|4, $has|Sanctuary_Gems|2"],
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
 	  {
 		// ID 
         "name": "Pyramid Boss",
-		"access_rules": "$hasBossAccess|4",
+		"access_rules": ["$hasBossAccess|4, $has|Sanctuary_Gems|2"],
 		"chest_unopened_img": "images/Bosses/Tomb_Boss.png",
 		"chest_opened_img": "images/Bosses/Skull.png",
       },

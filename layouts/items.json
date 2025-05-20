@@ -41,7 +41,8 @@
                             ["Kamoshidas_Medal", "Left_Eye","Right_Eye", "Lust_Seeds"],
 							["Vanity_Seeds"],
 							["Keycard", "Bank_Keys", "Gluttony_Seeds"],
-							["Papyrus", "Abyss_Gems", "Rejection_Gem", "Serenity_Gem", "Wrath_Seeds"],
+							["Papyrus", "Abyss_Gems", "Rejection_Gem", "Sanctuary_Gems", "Wrath_Seeds"],
+							["Chief_Director_ID", "Greed_Seeds"],
                         ]
                     }
                 ]

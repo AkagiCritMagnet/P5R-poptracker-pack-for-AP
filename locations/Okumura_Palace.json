@@ -1,7 +1,68 @@
 [
   {
-    "name": "Okumura Palace",
+    "name": "Spaceport of Greed Surroundings",
     "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 779,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		//ID 0x20000804
+        "name": "Facility Passageway Drop Down Chest",
+		"access_rules": ["Grappling_Hook"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000802
+        "name": "Facility Passageway Before Elevator Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000803
+        "name": "Facility Passageway Near Save Room Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x200013FB
+        "name": "Facility Passageway Red Will Seed",
+		"access_rules": ["Grappling_Hook"],
+		"chest_unopened_img": "images/items/RedSeed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000806
+        "name": "Facility Surroundings Main Path Chest",
+		"access_rules": ["Chief_Director_ID, Grappling_Hook"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000805
+        "name": "Facility Surroundings Grappling Hook Chest",
+		"access_rules": ["Chief_Director_ID, Grappling_Hook"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  
+
+ 
+    ]
+  },
+  
+  {
+    "name": "Spaceport of Greed Factory",
+    "access_rules": ["Chief_Director_ID, Grappling_Hook"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "item_count": 1,
@@ -15,14 +76,107 @@
     ],
     "sections": [
       {
-        "name": "test Okumura",
+		//ID 0x20000807
+        "name": "Export Line Above Save Room Chest",
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
-
- 
+	  {
+		//ID 0x200013FC
+        "name": "Facility Passageway Green Will Seed",
+		"chest_unopened_img": "images/items/GreenSeed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000816
+        "name": "Export Line Behind Fallen Crates Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000808
+        "name": "Production Line Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000817
+        "name": "Disposal Line Behind Pipe Bridge Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000809
+        "name": "Disposal Line South East Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
     ]
   },
+  
+  {
+    "name": "Spaceport of Greed Space and Infiltration",
+    "access_rules": ["Chief_Director_ID, Grappling_Hook"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 841,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		//ID 0x2000080A
+        "name": "Central Factory Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x200013FD
+        "name": "Transfer Line Blue Will Seed",
+		"chest_unopened_img": "images/items/BlueSeed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x2000080B
+        "name": "Transfer Line Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000818
+        "name": "Weapon Production Locked Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x2000080E
+        "name": "Weapon Production Infiltration Chest",
+		"access_rules": ["$hasBossAccess|5"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x2000080C
+        "name": "Weapon Maintenance Infiltration Chest",
+		"access_rules": ["$hasBossAccess|5"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		  //ID 
+        "name": "Spaceport Boss",
+		"access_rules": "$hasBossAccess|5",
+		"chest_unopened_img": "images/Bosses/Spaceport_Boss.png",
+		"chest_opened_img": "images/Bosses/Skull.png",
+      },
+    ]
+  },
+  
   //Okumura Palace Items map
   {
     "item_count": 1,
@@ -30,15 +184,303 @@
       {
         "sections": [
           {
-            "ref": "Okumura Palace/test Okumura",
-            "name": "test Okumura"
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Drop Down Chest",
+            "name": "Facility Passageway Drop Down Chest"
           }
         ],
         "map_locations": [
           {
             "map": "Okumura_Palace",
-            "x": 235,
-            "y": 274,
+            "x": 36,
+            "y": 1304,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Before Elevator Chest",
+            "name": "Facility Passageway Before Elevator Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 232,
+            "y": 1102,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Near Save Room Chest",
+            "name": "Facility Passageway Near Save Room Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 74,
+            "y": 906,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Red Will Seed",
+            "name": "Facility Passageway Red Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 560,
+            "y": 924,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Surroundings/Facility Surroundings Main Path Chest",
+            "name": "Facility Surroundings Main Path Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 244,
+            "y": 552,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Surroundings/Facility Surroundings Grappling Hook Chest",
+            "name": "Facility Surroundings Grappling Hook Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 226,
+            "y": 394,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Factory/Export Line Above Save Room Chest",
+            "name": "Export Line Above Save Room Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 795,
+            "y": 1400,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Factory/Facility Passageway Green Will Seed",
+            "name": "Facility Passageway Green Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 840,
+            "y": 1524,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Factory/Export Line Behind Fallen Crates Locked Chest",
+            "name": "Export Line Behind Fallen Crates Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 952,
+            "y": 964,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Factory/Production Line Chest",
+            "name": "Production Line Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1156,
+            "y": 1509,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Factory/Disposal Line Behind Pipe Bridge Locked Chest",
+            "name": "Disposal Line Behind Pipe Bridge Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1564,
+            "y": 1081,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Factory/Disposal Line South East Chest",
+            "name": "Disposal Line South East Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1553,
+            "y": 1181,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Central Factory Chest",
+            "name": "Central Factory Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1098,
+            "y": 782,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Transfer Line Blue Will Seed",
+            "name": "Transfer Line Blue Will Seed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1032,
+            "y": 432,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Transfer Line Chest",
+            "name": "Transfer Line Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1232,
+            "y": 346,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Weapon Production Locked Chest",
+            "name": "Weapon Production Locked Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 872,
+            "y": 386,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Weapon Production Infiltration Chest",
+            "name": "Weapon Production Infiltration Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 902,
+            "y": 140,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Weapon Maintenance Infiltration Chest",
+            "name": "Weapon Maintenance Infiltration Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1186,
+            "y": 84,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Spaceport of Greed Space and Infiltration/Spaceport Boss",
+            "name": "Spaceport Boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Okumura_Palace",
+            "x": 1148,
+            "y": 112,
 			"size": 20
           }
         ]

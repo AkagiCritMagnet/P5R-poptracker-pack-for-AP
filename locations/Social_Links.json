@@ -14,11 +14,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -84,11 +79,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -154,11 +144,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -218,17 +203,12 @@
     "map_locations": [
       {
         "map": "Overworld",
-        "x": 567,
-        "y": 474,
+        "x": 566,
+        "y": 473,
         "size": 30
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -288,17 +268,12 @@
     "map_locations": [
       {
         "map": "Overworld",
-        "x": 599,
-        "y": 474,
+        "x": 600,
+        "y": 473,
         "size": 30
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -358,17 +333,12 @@
     "map_locations": [
       {
         "map": "Overworld",
-        "x": 567,
-        "y": 506,
+        "x": 566,
+        "y": 507,
         "size": 30
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -428,17 +398,12 @@
     "map_locations": [
       {
         "map": "Overworld",
-        "x": 599,
-        "y": 506,
+        "x": 600,
+        "y": 507,
         "size": 30
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -504,11 +469,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -583,11 +543,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -653,11 +608,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -723,11 +673,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -793,11 +738,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -863,11 +803,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -933,11 +868,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -1003,11 +933,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -1073,11 +998,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -1143,11 +1063,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -1213,11 +1128,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -1268,145 +1178,7 @@
     ]
   },
   
-  {
-    "name": "The Fool Arcana",
-    "access_rules": [],
-    "chest_unopened_img": "images/items/chest_closed.png",
-    "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 69,
-        "y": 535,
-        "size": 30
-      }
-    ],
-    "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 2",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 3",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 4",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 5",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 6",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 7",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 8",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 9",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 10",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 
- 
-    ]
-  },
-  
-  {
-    "name": "The Magician Arcana",
-    "access_rules": [],
-    "chest_unopened_img": "images/items/chest_closed.png",
-    "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 110,
-        "y": 535,
-        "size": 30
-      }
-    ],
-    "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 2",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 3",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 4",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 5",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 6",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 7",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 8",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 9",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 10",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-
- 
-    ]
-  },
   {
     "name": "The Strength Arcana",
     "access_rules": [],
@@ -1422,11 +1194,6 @@
       }
     ],
     "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
 	  {
         "name": "Rank 2",
 		"chest_unopened_img": "images/items/chest_closed.png",
@@ -1477,75 +1244,7 @@
     ]
   },
   
-  {
-    "name": "The Judgement Arcana",
-    "access_rules": [],
-    "chest_unopened_img": "images/items/chest_closed.png",
-    "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 110,
-        "y": 576,
-        "size": 30
-      }
-    ],
-    "sections": [
-      {
-        "name": "Rank 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 2",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 3",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 4",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 5",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 6",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 7",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 8",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 9",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-        "name": "Rank 10",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-
- 
-    ]
-  },
+  
 
  
 ]
