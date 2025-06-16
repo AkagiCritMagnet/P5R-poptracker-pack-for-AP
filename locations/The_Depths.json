@@ -1,0 +1,276 @@
+[
+  {
+    "name": "The Depths",
+    "access_rules": ["Grappling_Hook"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 1309,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		//ID 0x20000D16
+        "name": "Upper Passageway Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D17
+        "name": "Middle Passageway Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D18
+        "name": "Lower Passageway Chest",
+		"access_rules": ["$has|Vermillion_Disk|1"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D19
+        "name": "Lowest Passageway Chest",
+		"access_rules": ["$has|Vermillion_Disk|2"],
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+
+ 
+    ]
+  },
+  
+  {
+    "name": "Qliphoth",
+    "access_rules": ["Grappling_Hook, $has|Vermillion_Disk|2"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "Overworld",
+        "x": 1340,
+        "y": 90,
+        "size": 30
+      }
+    ],
+    "sections": [
+      {
+		//ID 0x20000D1E
+        "name": "Path 1 Right Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D1F
+        "name": "Path 1 Left Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D1D
+        "name": "Path 2 Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D1C
+        "name": "Path 3 Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D1A
+        "name": "Path 4 Right Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  {
+		//ID 0x20000D1B
+        "name": "Path 4 Left Chest",
+		"chest_unopened_img": "images/items/chest_closed.png",
+		"chest_opened_img": "images/items/chest_opened.png",
+      },
+	  
+
+ 
+    ]
+  },
+  
+  
+  //The Depths Items map
+  {
+    "item_count": 1,
+    "children": [
+      {
+        "sections": [
+          {
+            "ref": "The Depths/Upper Passageway Chest",
+            "name": "Upper Passageway Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 258,
+            "y": 878,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "The Depths/Middle Passageway Chest",
+            "name": "Middle Passageway Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 656,
+            "y": 812,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "The Depths/Lower Passageway Chest",
+            "name": "Lower Passageway Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1064,
+            "y": 1136,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "The Depths/Lowest Passageway Chest",
+            "name": "Lowest Passageway Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 944,
+            "y": 384,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Qliphoth/Path 1 Right Chest",
+            "name": "Path 1 Right Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1494,
+            "y": 1070,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Qliphoth/Path 1 Left Chest",
+            "name": "Path 1 Left Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1358,
+            "y": 1142,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Qliphoth/Path 2 Chest",
+            "name": "Path 2 Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1342,
+            "y": 622,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Qliphoth/Path 3 Chest",
+            "name": "Path 3 Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1834,
+            "y": 856,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Qliphoth/Path 4 Right Chest",
+            "name": "Path 4 Right Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1836,
+            "y": 490,
+			"size": 20
+          }
+        ]
+      },
+	  {
+        "sections": [
+          {
+            "ref": "Qliphoth/Path 4 Left Chest",
+            "name": "Path 4 Left Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The_Depths",
+            "x": 1768,
+            "y": 440,
+			"size": 20
+          }
+        ]
+      },
+ 
+      
+    ]
+  },
+  
+ 
+]

@@ -76,7 +76,7 @@
       }
     ],
     "sections": [
-	{
+	  {
 		  //ID 0x200001D4
         "name": "Old Castle 3F Chapel Lower Chest",
 		"chest_unopened_img": "images/items/chest_closed.png",

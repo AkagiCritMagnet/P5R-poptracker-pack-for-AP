@@ -56,4 +56,18 @@
 		"location_shape": "rect",
         "img": "images/maps/Cruiser_Map.png"
     },
+	{
+        "name": "The_Depths",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Depths_Map.png"
+    },
+	{
+        "name": "Maruki_Palace",
+        "location_size": 10,
+        "location_border_thickness": 2,
+		"location_shape": "rect",
+        "img": "images/maps/Laboratory_Map.png"
+    },
 ]

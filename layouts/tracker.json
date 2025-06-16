@@ -149,6 +149,24 @@
                                 ]
                             }
                         },
+						{
+                            "title": "The Depths",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The_Depths"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Laboratory of Melancholy",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Maruki_Palace"
+                                ]
+                            }
+                        },
                         
 
                     ]

@@ -11,7 +11,7 @@
     "img": "images/items/Coffee.jpg",
     "codes": "Coffee_Basics"
   },
-   {
+  {
     "name": "Kamoshida's Medal",
     "type": "toggle",
     "img": "images/items/KamoshidasMedal.png",
@@ -29,15 +29,43 @@
     "img": "images/items/Right_Eye.png",
     "codes": "Right_Eye"
   },
+  
+  {
+    "name": "Red Lust Seed",
+    "type": "toggle",
+	"img": "images/items/Will_Seed.png",
+    "codes": "Red_Lust_Seed"
+  },
+  {
+    "name": "Green Lust Seed",
+    "type": "toggle",
+	"img": "images/items/Will_Seed.png",
+    "codes": "Green_Lust_Seed"
+  },
+  {
+    "name": "Blue Lust Seed",
+    "type": "toggle",
+	"img": "images/items/Will_Seed.png",
+    "codes": "Blue_Lust_Seed"
+  },
+  
   {
     "name": "Lust Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
+    "type": "progressive",
     "codes": "Lust_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+	"allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	  {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	  {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	  {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"},
+    ]
   },
+  
   {
     "name": "Vanity Seeds",
     "type": "consumable",
@@ -126,11 +154,88 @@
     "max_quantity": 3
   },
   
-
-
- 
- 
+  {
+    "name": "Security Keycard",
+    "type": "toggle",
+    "img": "images/items/Security_Keycard.jpg",
+    "codes": "Security_Keycard"
+  },
+  {
+    "name": "Casino Membership Card",
+    "type": "toggle",
+    "img": "images/items/Casino_Membership_Card.jpg",
+    "codes": "Casino_Membership_Card"
+  },
+  {
+    "name": "High Limit Card",
+    "type": "toggle",
+    "img": "images/items/High_Limit_Card.png",
+    "codes": "High_Limit_Card"
+  },
   
- 
+  {
+    "name": "Jealousy Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Jealousy_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  
+  {
+    "name": "Cruiser Membership Card",
+    "type": "toggle",
+    "img": "images/items/Cruiser_Membership_Card.png",
+    "codes": "Cruiser_Membership_Card"
+  },
+  
+  {
+    "name": "Pride Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Pride_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  
+  {
+    "name": "Vermillion Disk",
+    "type": "consumable",
+    "img": "images/items/Vermillion_Disk.png",
+    "codes": "Vermillion_Disk",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 2
+  },
+  
+  {
+    "name": "Personnel ID",
+    "type": "toggle",
+    "img": "images/items/Personnel_ID.png",
+    "codes": "Personnel_ID"
+  },
+  
+  {
+    "name": "Old Videotape",
+    "type": "consumable",
+    "img": "images/items/Old_Videotape.png",
+    "codes": "Old_Videotape",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  
+  {
+    "name": "Sorrow Seeds",
+    "type": "consumable",
+    "img": "images/items/Will_Seed.png",
+    "codes": "Sorrow_Seeds",
+	"initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+
 
 ]

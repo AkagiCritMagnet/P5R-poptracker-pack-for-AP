@@ -1,6 +1,6 @@
 [
   {
-    "name": "Futaba Palace",
+    "name": "Laboratory of Melancholy",
     "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
@@ -8,14 +8,14 @@
     "map_locations": [
       {
         "map": "Overworld",
-        "x": 350,
-        "y": 50,
+        "x": 1500,
+        "y": 90,
         "size": 30
       }
     ],
     "sections": [
       {
-        "name": "test Futaba",
+        "name": "test Depths",
 		"chest_unopened_img": "images/items/chest_closed.png",
 		"chest_opened_img": "images/items/chest_opened.png",
       },
@@ -23,20 +23,20 @@
  
     ]
   },
-  //Futaba Palace Items map
+  //Laboratory Items map
   {
     "item_count": 1,
     "children": [
       {
         "sections": [
           {
-            "ref": "Futaba Palace/test Futaba",
-            "name": "test Futaba"
+            "ref": "The Depths/test Depths",
+            "name": "The Depths"
           }
         ],
         "map_locations": [
           {
-            "map": "Futaba_Palace",
+            "map": "The_Depths",
             "x": 235,
             "y": 274,
 			"size": 20

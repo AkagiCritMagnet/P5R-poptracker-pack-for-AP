@@ -43,6 +43,10 @@
 							["Keycard", "Bank_Keys", "Gluttony_Seeds"],
 							["Papyrus", "Abyss_Gems", "Rejection_Gem", "Sanctuary_Gems", "Wrath_Seeds"],
 							["Chief_Director_ID", "Greed_Seeds"],
+							["Security_Keycard", "Casino_Membership_Card", "High_Limit_Card", "Jealousy_Seeds"],
+							["Cruiser_Membership_Card", "Pride_Seeds"],
+							["Vermillion_Disk"],
+							["Personnel_ID", "Old_Videotape", "Sorrow_Seeds"],
                         ]
                     }
                 ]
