@@ -4,71 +4,122 @@
     "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1119,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		//ID 0x20000B88
         "name": "Entrance South Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 78,
+            "y": 238,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B87
         "name": "Entrance North Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 75,
+            "y": 124,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B86
         "name": "Entrance Top Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 102,
+            "y": 85,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B89
         "name": "Central Passage Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 189,
+            "y": 99,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B8A
         "name": "Mid Starboard Hallway Corner Chest",
-		"access_rules": ["Cruiser_Membership_Card"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Cruiser_Membership_Card"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1284,
+            "y": 51,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B8B
         "name": "Mid Starboard Hallway Exit Chest",
-		"access_rules": ["Cruiser_Membership_Card"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Cruiser_Membership_Card"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1090,
+            "y": 457,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x200013FB
         "name": "Mid Starboard Red Will Seed",
-		"access_rules": ["Cruiser_Membership_Card, Grappling_Hook"],
-		"chest_unopened_img": "images/items/RedSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Cruiser_Membership_Card, Grappling_Hook"]
+        }],
+		    "chest_unopened_img": "images/items/RedSeed.png",
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 850,
+            "y": 162,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B8A
         "name": "Pool Deck Locked Chest",
-		"access_rules": ["Cruiser_Membership_Card"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-
- 
+        "sections":[{
+          "access_rules": ["Cruiser_Membership_Card"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1432,
+            "y": 174,
+			      "size": 20
+          }
+        ]
+      }
     ]
   },
   
@@ -77,66 +128,116 @@
     "access_rules": ["Cruiser_Membership_Card"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1150,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		//ID 0x20000B8C
         "name": "Upper Starboard Hallway SW Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 162,
+            "y": 538,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B8D
         "name": "Upper Starboard Hallway SE Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 460,
+            "y": 666,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B9D
         "name": "Upper Starboard Hallway Top Locked Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 529,
+            "y": 342,
+			      "size": 20
+          }
+        ]
       }, 
 	  {
 		//ID 0x20000B8E
         "name": "Back Deck Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 744,
+            "y": 748,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B9B
         "name": "Entertainment Hall Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1028,
+            "y": 702,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B95
         "name": "Lower Port Hallway Top Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1724,
+            "y": 460,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20000B90
         "name": "Lower Port Hallway Near Will Seed Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1420,
+            "y": 588,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x200013FC
         "name": "Lower Port Hallway Green Will Seed",
-		"chest_unopened_img": "images/items/GreenSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
+        "sections":[{}],
+		    "chest_unopened_img": "images/items/GreenSeed.png",
+        "map_locations": [
+          {
+            "map": "Shido_Palace",
+            "x": 1332,
+            "y": 624,
+			      "size": 20
+          }
+        ]
+      }
 
  
     ]
@@ -147,422 +248,96 @@
     "access_rules": ["Cruiser_Membership_Card"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1181,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		//ID 0x20000B9C
         "name": "Side Deck Outside Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000B93
-        "name": "Side Deck Near Seed Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x200013FD
-        "name": "Side Deck Blue Will Seed",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/BlueSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000B91
-        "name": "Mid Port Hallway South Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000B96
-        "name": "Mid Port Hallway Guarded Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		// ID 
-        "name": "Cruiser Boss",
-		"access_rules": ["$hasBossAccess|7"],
-		"chest_unopened_img": "images/Bosses/Cruiser_Boss.png",
-		"chest_opened_img": "images/Bosses/Skull.png",
-      },
-	  
-
- 
-    ]
-  },
-  
-  
-  //Shido Palace Items map
-  {
-    "item_count": 1,
-    "children": [
-      {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Entrance South Chest",
-            "name": "Entrance South Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 78,
-            "y": 238,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Entrance North Chest",
-            "name": "Entrance North Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 75,
-            "y": 124,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Entrance Top Chest",
-            "name": "Entrance Top Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 102,
-            "y": 85,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Central Passage Chest",
-            "name": "Central Passage Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 189,
-            "y": 99,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Mid Starboard Hallway Corner Chest",
-            "name": "Mid Starboard Hallway Corner Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1284,
-            "y": 51,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Mid Starboard Hallway Exit Chest",
-            "name": "Mid Starboard Hallway Exit Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1090,
-            "y": 457,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Mid Starboard Red Will Seed",
-            "name": "Mid Starboard Red Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 850,
-            "y": 162,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Start to Pool/Pool Deck Locked Chest",
-            "name": "Pool Deck Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1432,
-            "y": 174,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Upper Starboard Hallway SW Chest",
-            "name": "Upper Starboard Hallway SW Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 162,
-            "y": 538,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Upper Starboard Hallway SE Chest",
-            "name": "Upper Starboard Hallway SE Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 460,
-            "y": 666,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Upper Starboard Hallway Top Locked Chest",
-            "name": "Upper Starboard Hallway Top Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 529,
-            "y": 342,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Back Deck Chest",
-            "name": "Back Deck Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 744,
-            "y": 748,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Entertainment Hall Locked Chest",
-            "name": "Entertainment Hall Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1028,
-            "y": 702,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Lower Port Hallway Top Chest",
-            "name": "Lower Port Hallway Top Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1724,
-            "y": 460,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Lower Port Hallway Near Will Seed Chest",
-            "name": "Lower Port Hallway Near Will Seed Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1420,
-            "y": 588,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Pool to Lower Port/Lower Port Hallway Green Will Seed",
-            "name": "Lower Port Hallway Green Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Shido_Palace",
-            "x": 1332,
-            "y": 624,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Side Deck to End/Side Deck Outside Chest",
-            "name": "Side Deck Outside Chest"
-          }
-        ],
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Shido_Palace",
             "x": 142,
             "y": 1204,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Side Deck to End/Side Deck Near Seed Chest",
-            "name": "Side Deck Near Seed Chest"
-          }
-        ],
+		//ID 0x20000B93
+        "name": "Side Deck Near Seed Chest",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
         "map_locations": [
           {
             "map": "Shido_Palace",
             "x": 534,
             "y": 1026,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Side Deck to End/Side Deck Blue Will Seed",
-            "name": "Side Deck Blue Will Seed"
-          }
-        ],
+		//ID 0x200013FD
+        "name": "Side Deck Blue Will Seed",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+		    "chest_unopened_img": "images/items/BlueSeed.png",
         "map_locations": [
           {
             "map": "Shido_Palace",
             "x": 434,
             "y": 844,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Side Deck to End/Mid Port Hallway South Chest",
-            "name": "Mid Port Hallway South Chest"
-          }
-        ],
+		//ID 0x20000B91
+        "name": "Mid Port Hallway South Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Shido_Palace",
             "x": 1584,
             "y": 1108,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Side Deck to End/Mid Port Hallway Guarded Chest",
-            "name": "Mid Port Hallway Guarded Chest"
-          }
-        ],
+		//ID 0x20000B96
+        "name": "Mid Port Hallway Guarded Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Shido_Palace",
             "x": 1710,
             "y": 942,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Cruiser of Pride Side Deck to End/Cruiser Boss",
-            "name": "Cruiser Boss"
-          }
-        ],
+		// ID 
+        "name": "Cruiser Boss",
+        "sections":[{
+          "access_rules": ["$hasBossAccess|7"]
+        }],
+		    "chest_unopened_img": "images/Bosses/Cruiser_Boss.png",
+		    "chest_opened_img": "images/Bosses/Skull.png",
         "map_locations": [
           {
             "map": "Shido_Palace",
             "x": 1010,
             "y": 1116,
-			"size": 20
+			      "size": 20
           }
         ]
-      },
- 
-      
+      }
     ]
-  },
+  }
   
  
 ]

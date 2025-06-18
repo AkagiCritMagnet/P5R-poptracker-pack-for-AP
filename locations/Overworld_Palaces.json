@@ -1,0 +1,1138 @@
+[
+ {
+	"name": "Overworld",
+	"children": [
+	  {
+		"name": "Castle of Lust Without Medal",    
+		"sections": [
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 1F Armory Chest/",
+				"name": "Old Castle 1F Chest"
+			  },
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 2F Chest 1/",
+				"name": "Old Castle 2F Chest 1"
+			  },
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 2F Gate Puzzle Chest/",
+				"name": "Old Castle 2F Gate Puzzle Chest"
+			  },
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 2F Kitchen Chest/",
+				"name": "Old Castle 2F Kitchen Chest"
+			  },
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 2F Guarded Chest/",
+				"name": "Old Castle 2F Guarded Chest"
+			  },
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 3F Top of Stairs Chest/",
+				"name": "Old Castle 3F Top of Stairs Chest"
+			  },
+			  {
+				"ref": "Castle of Lust Without Medal/Old Castle 3F Near Library Chest/",
+				"name": "Old Castle 3F Near Library Chest"
+			  }
+		],
+		
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 60,
+			"y": 90,
+			"size": 30
+		  }
+		]
+	  },
+	  
+	  {
+		"name": "Castle of Lust After Medal",
+		"sections": [
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 3F Chapel Lower Chest/",
+				"name": "Old Castle 3F Chapel Lower Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 3F Chapel Upper Chest 1/",
+				"name": "Old Castle 3F Chapel Upper Chest 1"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 3F Chapel Upper Chest 2/",
+				"name": "Old Castle 3F Chapel Upper Chest 2"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 3F Near Will Seed Chest/",
+				"name": "Old Castle 3F Near Will Seed Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 3F Red Will Seed/",
+				"name": "Old Castle 3F Red Will Seed"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 3F Staircase before Roof/",
+				"name": "Old Castle 3F Staircase before Roof"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Roof below Will Seed Chest/",
+				"name": "Roof below Will Seed Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Roof Green Will Seed/",
+				"name": "Roof Green Will Seed"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Blue Will Seed/",
+				"name": "Blue Will Seed"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Tower Lower lvl Chest/",
+				"name": "Tower Lower lvl Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 1F Central Hall Left Chest/",
+				"name": "Old Castle 1F Central Hall Left Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Old Castle 1F Central Hall Right Chest/",
+				"name": "Old Castle 1F Central Hall Right Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Tower Middle lvl First Chest/",
+				"name": "Tower Middle lvl First Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Medal/Tower Middle lvl Near Stairs Chest/",
+				"name": "Tower Middle lvl Near Stairs Chest"
+			  }
+			  
+	  
+		],
+	 
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 90,
+			"y": 90,
+			"size": 30
+		  }
+		]
+		
+	  },
+	  
+	  {
+		"name": "Castle of Lust After Eyes",    
+		"sections": [
+			  {
+				"ref": "Castle of Lust After Eyes/Tower Upper lvl Axe Trap Chest/",
+				"name": "Tower Upper lvl Axe Trap Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Eyes/Tower Upper lvl After Trap Room Chest/",
+				"name": "Tower Upper lvl After Trap Room Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Eyes/Tower Upper lvl Shifting Walls Chest/",
+				"name": "Tower Upper lvl Shifting Walls Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Eyes/Throne Room Hallway Chest/",
+				"name": "Throne Room Hallway Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Eyes/Throne Room Grapple Window Chest/",
+				"name": "Throne Room Grapple Window Chest"
+			  },
+			  {
+				"ref": "Castle of Lust After Eyes/Castle Boss/",
+				"name": "Castle Boss"
+			  }
+		
+		
+		],
+		
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 120,
+			"y": 90,
+			"size": 30
+		  }
+		]
+		
+	  },
+
+
+	{
+		"name": "Museum of Vanity",
+		"sections": [
+			{
+            "ref": "Museum of Vanity/Museum 1F Information Desk Chest/",
+            "name": "Museum 1F Information Desk Chest"
+          	},
+			{
+            "ref": "Museum of Vanity/Museum 1F Information Desk Locked Chest/",
+            "name": "Museum 1F Information Desk Locked Chest"
+            },
+			{
+            "ref": "Museum of Vanity/Museum 1F First Exhibition Chest/",
+            "name": "Museum 1F First Exhibition Chest"
+            },
+			{
+            "ref": "Museum of Vanity/Museum 1F First Exhibition Behind Obstacle Chest/",
+            "name": "Museum 1F First Exhibition Behind Obstacle Chest/"
+            },
+			{
+            "ref": "Museum of Vanity/Museum 2F WC Chest/",
+            "name": "Museum 2F WC Chest"
+            },
+			{
+            "ref": "Museum of Vanity/Museum 2F Near Will Seed Chest/",
+            "name": "Museum 2F Near Will Seed Chest"
+            },
+			{
+            "ref": "Museum of Vanity/Museum 2F Balcony Chest/",
+            "name": "Museum 2F Balcony Chest"
+            },
+			{
+            "ref": "Museum of Vanity/Museum 2F Red Will Seed/",
+            "name": "Museum 2F Red Will Seed"
+            }			  
+		],
+		
+		"map_locations": [
+		  {
+			"map": "Overworld",
+        	"x": 254,
+        	"y": 90,
+        	"size": 30
+			}
+		]
+	},
+
+	{
+		"name": "Museum of Vanity after Change in Cognition",
+		"sections": [
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Dead End Chest/",
+            "name": "Treasure Hall Lounge Dead End Chest"
+          	},
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Near Control Room Chest/",
+            "name": "Treasure Hall Lounge Near Control Room Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Near Control Room Locked Chest/",
+            "name": "Treasure Hall Lounge Near Control Room Locked Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Laser Grid Locked Chest/",
+            "name": "Treasure Hall Lounge Laser Grid Locked Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Lounge Laser Grid Chest/",
+            "name": "Treasure Hall Lounge Laser Grid Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Gallery Guarded Chest/",
+            "name": "Treasure Hall Gallery Guarded Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Gallery Near Switch Chest/",
+            "name": "Treasure Hall Gallery Near Switch Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Treasure Hall Gallery Green Will Seed/",
+            "name": "Treasure Hall Gallery Green Will Seed"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze/Near Entrance Chest",
+            "name": "??? Maze Near Entrance Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze/Behind Small Fake Wall Chest",
+            "name": "??? Maze Behind Small Fake Wall Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze/Near True Sayuri Chest",
+            "name": "??? Maze Near True Sayuri Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/??? Maze/Exit Chest",
+            "name": "??? Maze Exit Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Main Treasure Hall Behind Vent Locked Chest/",
+            "name": "Main Treasure Hall Behind Vent Locked Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Main Treasure Hall Blue Will Seed/",
+            "name": "Main Treasure Hall Blue Will Seed"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Main Treasure Hall Before Hook Controls Chest/",
+            "name": "Main Treasure Hall Before Hook Controls Chest"
+            },
+			{
+            "ref": "Museum of Vanity after Change in Cognition/Museum Boss/",
+            "name": "Museum Boss"
+            }
+
+		],
+		"map_locations": [
+      {
+        "map": "Overworld",
+        "x": 286,
+        "y": 90,
+        "size": 30
+      }
+    ]
+
+
+	},
+
+	{
+		"name": "Bank of Gluttony Before Safe Door",
+		"sections": [
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Front Hall 1F Behind Counter Chest/",
+            "name": "Front Hall 1F Behind Counter Chest"
+           	},
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Front Hall 1F Office Chest/",
+            "name": "Front Hall 1F Office Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Banker Passageway Past Cameras Chest/",
+            "name": "Banker Passageway Past Cameras Chest"
+         	},
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Banker Passageway Near Security Locked Chest/",
+            "name": "Banker Passageway Near Security Locked Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Banker Passageway Red Will Seed/",
+            "name": "Banker Passageway Red Will Seed"
+          	},
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Banker Passageway Vent Chest/",
+            "name": "Banker Passageway Vent Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Before Safe Door/Banker Passageway Locked Room Chest/",
+            "name": "Banker Passageway Locked Room Chest"
+          	}
+
+		],
+		"map_locations": [
+     	 {
+        "map": "Overworld",
+        "x": 420,
+        "y": 90,
+        "size": 30
+     	 }
+    	]
+
+	},
+
+	{
+		"name": "Bank of Gluttony Laundering Office",
+		"sections": [
+			{
+            "ref": "Bank of Gluttony Laundering Office/Laundering Office Facing Will Seed Chest/",
+            "name": "Laundering Office Facing Will Seed Chest"
+         	},
+			{
+            "ref": "Bank of Gluttony Laundering Office/Laundering Office Green Will Seed/",
+            "name": "Laundering Office Green Will Seed"
+          	},
+			{
+            "ref": "Bank of Gluttony Laundering Office/Laundering Office Elevator Corridor Chest/",
+            "name": "Laundering Office Elevator Corridor Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Laundering Office/Laundering Office Downstairs Chest/",
+            "name": "Laundering Office Downstairs Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Laundering Office/Laundering Office Guarded Locked Chest/",
+            "name": "Laundering Office Guarded Locked Chest"
+          	}
+		],
+		"map_locations": [
+     	 {
+        "map": "Overworld",
+        "x": 451,
+        "y": 90,
+        "size": 30
+   	  	 }
+  	 	 ]
+			
+	},
+
+	{
+		"name": "Bank of Gluttony Underground Vault",
+		"sections": [
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 1F Near Golden Piggy Bank Chest/",
+            "name": "Vault 1F Near Golden Piggy Bank Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 1F Alcove Chest/",
+            "name": "Vault 1F Alcove Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 2F High Up Locked Chest/",
+            "name": "Vault 2F High Up Locked Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 2F Behind Lasers Chest/",
+            "name": "Vault 2F Behind Lasers Chest"
+         	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Underground Vault Blue Will Seed/",
+            "name": "Underground Vault Blue Will Seed"
+          	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 3F Above Golden Piggy Bank Locked Chest/",
+            "name": "Vault 3F Above Golden Piggy Bank Locked Chest"
+            },
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 3F East Alcove Chest/",
+            "name": "VVault 3F East Alcove Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Vault 3F West Alcove Chest/",
+            "name": "Vault 3F West Alcove Chest"
+          	},
+			{
+            "ref": "Bank of Gluttony Underground Vault/Bank Boss/",
+            "name": "Bank Boss"
+        	}
+		],
+		"map_locations": [
+   	   {
+        "map": "Overworld",
+        "x": 482,
+        "y": 90,
+        "size": 30
+  	    }
+    	]
+	},
+
+	{
+		"name": "Pyramid of Wrath Underground",
+		"sections": [
+			{
+            "ref": "Pyramid of Wrath Underground/Underground Cavern Lowest Chest/",
+            "name": "Underground Cavern Lowest Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Underground/Underground Cavern Top Chest 1/",
+            "name": "Underground Cavern Top Chest 1"
+         	},
+			{
+            "ref": "Pyramid of Wrath Underground/Underground Cavern Top Chest 2/",
+            "name": "Underground Cavern Top Chest 2"
+          	},
+			{
+            "ref": "Pyramid of Wrath Underground/Underground Corridor Chest/",
+            "name": "Underground Corridor Chest"
+          	}
+		],
+		"map_locations": [
+      	{
+       		"map": "Overworld",
+        	"x": 599,
+        	"y": 90,
+        	"size": 30
+     	}
+    ]
+	},
+
+	{
+		"name": "Pyramid of Wrath Chambers of Rejection and Guilt",
+		"sections": [
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection 1F Chest/",
+            "name": "Chamber of Rejection 1F Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection 2F Chest/",
+            "name": "Chamber of Rejection 2F Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection 2F Locked Chest/",
+            "name": "Chamber of Rejection 2F Locked Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Rejection Red Will Seed/",
+            "name": "Chamber of Rejection Red Will Seed"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Guilt Sarcophagi Chest/",
+            "name": "Chamber of Guilt Sarcophagi Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Guilt Near Will Seed Chest/",
+            "name": "Chamber of Guilt Near Will Seed Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Rejection and Guilt/Chamber of Guilt Green Will Seed/",
+            "name": "Chamber of Guilt Green Will Seed"
+          	}
+		],
+		"map_locations": [
+      	{
+        	"map": "Overworld",
+        	"x": 630,
+        	"y": 90,
+        	"size": 30
+      	}
+    	]
+	},
+
+	{
+		"name": "Pyramid of Wrath Chambers of Sanctuary and Emptiness",
+		"sections": [
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 1F Trapped Chest/",
+            "name": "Chamber of Sanctuary 1F Trapped Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 1F Locked Chest/",
+            "name": "Chamber of Sanctuary 1F Locked Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 2F Antechamber Chest/",
+            "name": "Chamber of Sanctuary 2F Antechamber Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 2F Platform Locked Chest/",
+            "name": "Chamber of Sanctuary 2F Platform Locked Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary 2F Ledge Chest/",
+            "name": "Chamber of Sanctuary 2F Ledge Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Sanctuary Blue Will Seed/",
+            "name": "Chamber of Sanctuary Blue Will Seed"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Chamber of Emptiness Chest/",
+            "name": "Chamber of Emptiness Chest"
+          	},
+			{
+            "ref": "Pyramid of Wrath Chambers of Sanctuary and Emptiness/Pyramid Boss/",
+            "name": "Pyramid Boss"
+          	}
+
+
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 661,
+       	 	"y": 90,
+       		"size": 30
+      		}
+    	]
+	},
+
+		{
+		"name": "Spaceport of Greed Surroundings",
+		"sections":[
+			{
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Drop Down Chest/",
+            "name": "Facility Passageway Drop Down Chest"
+            },
+			{
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Before Elevator Chest/",
+            "name": "Facility Passageway Before Elevator Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Near Save Room Chest/",
+            "name": "Facility Passageway Near Save Room Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Surroundings/Facility Passageway Red Will Seed/",
+            "name": "Facility Passageway Red Will Seed"
+          	},
+			{
+            "ref": "Spaceport of Greed Surroundings/Facility Surroundings Main Path Chest/",
+            "name": "Facility Surroundings Main Path Chest"
+          	}
+			
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 779,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+
+		},
+
+		{
+		"name": "Spaceport of Greed Factory",
+		"sections":[
+			{
+            "ref": "Spaceport of Greed Surroundings/Facility Surroundings Grappling Hook Chest/",
+            "name": "Facility Surroundings Grappling Hook Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Factory/Export Line Above Save Room Chest/",
+            "name": "Export Line Above Save Room Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Factory/Facility Passageway Green Will Seed/",
+            "name": "Facility Passageway Green Will Seed"
+          	},
+			{
+            "ref": "Spaceport of Greed Factory/Export Line Behind Fallen Crates Locked Chest/",
+            "name": "Export Line Behind Fallen Crates Locked Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Factory/Production Line Chest/",
+            "name": "Production Line Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Factory/Disposal Line Behind Pipe Bridge Locked Chest/",
+            "name": "Disposal Line Behind Pipe Bridge Locked Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Factory/Disposal Line South East Chest/",
+            "name": "Disposal Line South East Chest"
+          	}
+			
+
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 810,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+
+		},
+
+		{
+		"name": "Spaceport of Greed Space and Infiltration",
+		"sections":[
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Central Factory Chest/",
+            "name": "Central Factory Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Transfer Line Blue Will Seed/",
+            "name": "Transfer Line Blue Will Seed"
+         	},
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Transfer Line Chest/",
+            "name": "Transfer Line Chest"
+         	},
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Weapon Production Locked Chest/",
+            "name": "Weapon Production Locked Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Weapon Production Infiltration Chest/",
+            "name": "Weapon Production Infiltration Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Weapon Maintenance Infiltration Chest/",
+            "name": "Weapon Maintenance Infiltration Chest"
+          	},
+			{
+            "ref": "Spaceport of Greed Space and Infiltration/Spaceport Boss/",
+            "name": "Spaceport Boss"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 841,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+
+		},
+
+
+		{
+		"name": "Casino of Jealousy Main Floor",
+		"sections":[
+			{
+            "ref": "Casino of Jealousy Main Floor/Main Floor Lobby Chest/",
+            "name": "Main Floor Lobby Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Main Floor/Staff Only Area East Chest/",
+            "name": "Staff Only Area East Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Main Floor/Staff Only Area SW Chest/",
+            "name": "Staff Only Area SW Chest"
+            },
+			{
+            "ref": "Casino of Jealousy Main Floor/Staff Only Area Red Will Seed/",
+            "name": "Staff Only Area Red Will Seed"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 949,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Casino of Jealousy Members Floor",
+		"sections": [
+			{
+            "ref": "Casino of Jealousy Members Floor/Dice Game Area NW Locked Chest/",
+            "name": "Dice Game Area NW Locked Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Dice Game Area Blocked Stairs Chest/",
+            "name": "Dice Game Area Blocked Stairs Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Dice Game Area SE Chest/",
+            "name": "Dice Game Area SE Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Dice Game Area Upper Floor Chest/",
+            "name": "Dice Game Area Upper Floor Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Slot Room Above Entrance Chest/",
+            "name": "Slot Room Above Entrance Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Slot Room Near Green Panel Chest/",
+            "name": "Slot Room Near Green Panel Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Slot Room Green Will Seed/",
+            "name": "Slot Room Green Will Seed"
+          	},
+			{
+            "ref": "Casino of Jealousy Members Floor/Slot Room Behind Giant Slot Chest/",
+            "name": "Slot Room Behind Giant Slot Chest"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 980,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Casino of Jealousy High Limit",
+		"sections": [
+			{
+            "ref": "Casino of Jealousy High Limit/High Limit Lobby Locked Chest/",
+            "name": "High Limit Lobby Locked Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/Hight Limit Lobby Blue Will Seed/",
+            "name": "Hight Limit Lobby Blue Will Seed"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/House of Darkness Near Vent Dead End Chest/",
+            "name": "House of Darkness Near Vent Dead End Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/House of Darkness South Small Room Chest/",
+            "name": "House of Darkness South Small Room Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/House of Darkness North Room Chest/",
+            "name": "House of Darkness North Room Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/House of Darkness Exit Locked Chest/",
+            "name": "House of Darkness Exit Locked Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/House of Darkness Near Miniboss Locked Chest/",
+            "name": "House of Darkness Near Miniboss Locked Chest"
+          	},
+			{
+            "ref": "Casino of Jealousy High Limit/Casino Boss/",
+            "name": "Casino Boss"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1011,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Cruiser of Pride Start to Pool",
+		"sections": [
+			{
+            "ref": "Cruiser of Pride Start to Pool/Entrance South Chest/",
+            "name": "Entrance South Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Entrance North Chest/",
+            "name": "Entrance North Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Entrance Top Chest/",
+            "name": "Entrance Top Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Central Passage Chest/",
+            "name": "Central Passage Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Mid Starboard Hallway Corner Chest/",
+            "name": "Mid Starboard Hallway Corner Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Mid Starboard Hallway Exit Chest/",
+            "name": "Mid Starboard Hallway Exit Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Mid Starboard Red Will Seed/",
+            "name": "Mid Starboard Red Will Seed"
+          	},
+			{
+            "ref": "Cruiser of Pride Start to Pool/Pool Deck Locked Chest/",
+            "name": "Pool Deck Locked Chest"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1119,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Cruiser of Pride Pool to Lower Port",
+		"sections": [
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Upper Starboard Hallway SW Chest/",
+            "name": "Upper Starboard Hallway SW Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Upper Starboard Hallway SE Chest/",
+            "name": "Upper Starboard Hallway SE Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Upper Starboard Hallway Top Locked Chest/",
+            "name": "Upper Starboard Hallway Top Locked Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Back Deck Chest/",
+            "name": "Back Deck Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Entertainment Hall Locked Chest/",
+            "name": "Entertainment Hall Locked Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Lower Port Hallway Top Chest/",
+            "name": "Lower Port Hallway Top Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Lower Port Hallway Near Will Seed Chest/",
+            "name": "Lower Port Hallway Near Will Seed Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Pool to Lower Port/Lower Port Hallway Green Will Seed/",
+            "name": "Lower Port Hallway Green Will Seed"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1150,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Cruiser of Pride Side Deck to End",
+		"sections": [
+			{
+            "ref": "Cruiser of Pride Side Deck to End/Side Deck Outside Chest/",
+            "name": "Side Deck Outside Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Side Deck to End/Side Deck Near Seed Chest/",
+            "name": "Side Deck Near Seed Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Side Deck to End/Side Deck Blue Will Seed/",
+            "name": "Side Deck Blue Will Seed"
+          	},
+			{
+            "ref": "Cruiser of Pride Side Deck to End/Mid Port Hallway South Chest/",
+            "name": "Mid Port Hallway South Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Side Deck to End/Mid Port Hallway Guarded Chest/",
+            "name": "Mid Port Hallway Guarded Chest"
+          	},
+			{
+            "ref": "Cruiser of Pride Side Deck to End/Cruiser Boss/",
+            "name": "Cruiser Boss"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1181,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "The Depths",
+		"sections": [
+			{
+            "ref": "The Depths/Upper Passageway Chest/",
+            "name": "Upper Passageway Chest"
+          	},
+			{
+            "ref": "The Depths/Middle Passageway Chest/",
+            "name": "Middle Passageway Chest"
+          	},
+			{
+            "ref": "The Depths/Lower Passageway Chest/",
+            "name": "Lower Passageway Chest"
+          	},
+			{
+            "ref": "The Depths/Lowest Passageway Chest/",
+            "name": "Lowest Passageway Chest"
+          	}	
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1309,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Qliphoth",
+		"sections": [
+			{
+            "ref": "Qliphoth/Path 1 Right Chest/",
+            "name": "Path 1 Right Chest"
+          	},
+			{
+            "ref": "Qliphoth/Path 1 Left Chest/",
+            "name": "Path 1 Left Chest"
+          	},
+			{
+            "ref": "Qliphoth/Path 2 Chest/",
+            "name": "Path 2 Chest"
+          	},
+			{
+            "ref": "Qliphoth/Path 3 Chest/",
+            "name": "Path 3 Chest"
+          	},
+			{
+            "ref": "Qliphoth/Path 4 Right Chest/",
+            "name": "Path 4 Right Chest"
+          	},
+			{
+            "ref": "Qliphoth/Path 4 Left Chest/",
+            "name": "Path 4 Left Chest"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1340,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Laboratory of Melancholy Entrance",
+		"sections": [
+			{
+            "ref": "Laboratory of Melancholy Entrance/Entrance Chest/",
+            "name": "Entrance Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Entrance/Entrance Hall Back Room Chest/",
+            "name": "Entrance Hall Back Room Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Entrance/Corridor Chest/",
+            "name": "Corridor Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Entrance/Test Track Locked Chest/",
+            "name": "Test Track Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Entrance/Auditorium Locked Chest/",
+            "name": "Auditorium Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Entrance/Top of Warehouse Chest/",
+            "name": "Top of Warehouse Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Entrance/Warehouse Behind Container Chest/",
+            "name": "Warehouse Behind Container Chest"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1469,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Laboratory of Melancholy Research",
+		"sections": [
+			{
+            "ref": "Laboratory of Melancholy Research/Monitoring Room 1F Locked Chest/",
+            "name": "Monitoring Room 1F Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Monitoring Room Upstairs Chest/",
+            "name": "Monitoring Room Upstairs Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Monitoring Room Near Will Seed Locked Chest/",
+            "name": "Monitoring Room Near Will Seed Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Monitoring Room Red Will Seed/",
+            "name": "Monitoring Room Red Will Seed"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Research Ward 1F Chest/",
+            "name": "Research Ward 1F Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Research Ward 2F Chest/",
+            "name": "Research Ward 2F Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Research Ward 4F Locked Chest/",
+            "name": "Research Ward 4F Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Research/Research Ward Green Will Seed/",
+            "name": "Research Ward Green Will Seed"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1500,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		},
+
+		{
+		"name": "Laboratory of Melancholy Treatment",
+		"sections": [
+			{
+            "ref": "Laboratory of Melancholy Treatment/Exam Room 2nd Question Chest/",
+            "name": "Exam Room 2nd Question Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Exam Room Final Question Chest/",
+            "name": "Exam Room Final Question Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Counselling Room Top Chest/",
+            "name": "Counselling Room Top Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Counselling Room East Chest/",
+            "name": "Counselling Room East Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Counselling Room West Locked Chest/",
+            "name": "Counselling Room West Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor First Half Chest/",
+            "name": "Twilight Corridor First Half Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor Second Half Locked Chest/",
+            "name": "Twilight Corridor Second Half Locked Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor Near Will Seed Chest/",
+            "name": "Twilight Corridor Near Will Seed Chest"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor Blue Will Seed/",
+            "name": "Twilight Corridor Blue Will Seed"
+          	},
+			{
+            "ref": "Laboratory of Melancholy Treatment/Laboratory Boss/",
+            "name": "Laboratory Boss"
+          	}
+		],
+		"map_locations": [
+      		{
+        	"map": "Overworld",
+        	"x": 1531,
+        	"y": 90,
+        	"size": 30
+      		}
+    	]
+		}
+
+
+
+
+
+
+  ]
+
+ }
+]

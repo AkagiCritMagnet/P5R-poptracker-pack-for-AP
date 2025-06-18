@@ -4,40 +4,61 @@
     "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 949,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		//ID 0x20000992
         "name": "Main Floor Lobby Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Niijima_Palace",
+            "x": 791,
+            "y": 379,
+			      "size": 20
+          }
+        ]
       },
-	  {
+	    {
 		//ID 0x20000994
         "name": "Staff Only Area East Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Niijima_Palace",
+            "x": 576,
+            "y": 314,
+			      "size": 20
+          }
+        ]
       },
-	  {
+	    {
 		//ID 0x20000993
         "name": "Staff Only Area SW Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{}],
+        "map_locations": [
+          {
+            "map": "Niijima_Palace",
+            "x": 261,
+            "y": 352,
+			      "size": 20
+          }
+        ]
       },
-	  {
+	    {
 		//ID 0x200013FB
         "name": "Staff Only Area Red Will Seed",
-		"access_rules": ["Security_Keycard"],
-		"chest_unopened_img": "images/items/RedSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections":[{
+          "access_rules": ["Security_Keycard"]
+        }],
+		    "chest_unopened_img": "images/items/RedSeed.png",
+        "map_locations": [
+          {
+            "map": "Niijima_Palace",
+            "x": 158,
+            "y": 409,
+			      "size": 20
+          }
+        ]
       },
 
  
@@ -48,471 +69,247 @@
     "access_rules": ["Security_Keycard, Casino_Membership_Card"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 980,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		//ID 0x200009A9
         "name": "Dice Game Area NW Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000099C
-        "name": "Dice Game Area Blocked Stairs Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000996
-        "name": "Dice Game Area SE Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000099D
-        "name": "Dice Game Area Upper Floor Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000099E
-        "name": "Slot Room Above Entrance Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000997
-        "name": "Slot Room Near Green Panel Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		  // ID 0x200013FC
-        "name": "Slot Room Green Will Seed",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/GreenSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000998
-        "name": "Slot Room Behind Giant Slot Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-
- 
-    ]
-  },
-  {
-    "name": "Casino of Jealousy High Limit",
-    "access_rules": ["Security_Keycard, Casino_Membership_Card, High_Limit_Card"],
-    "chest_unopened_img": "images/items/chest_closed.png",
-    "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1011,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
-      {
-		//ID 0x200009A6
-        "name": "High Limit Lobby Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		  //ID 0x200013FD
-        "name": "Hight Limit Lobby Blue Will Seed",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/BlueSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000099B
-        "name": "House of Darkness Near Vent Dead End Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000099A
-        "name": "House of Darkness South Small Room Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20000999
-        "name": "House of Darkness North Room Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x200009A7
-        "name": "House of Darkness Exit Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x200009A7
-        "name": "House of Darkness Near Miniboss Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  
-	  
-	  {
-		// ID 
-        "name": "Casino Boss",
-		"access_rules": ["$hasBossAccess|6"],
-		"chest_unopened_img": "images/Bosses/Casino_Boss.png",
-		"chest_opened_img": "images/Bosses/Skull.png",
-      },
-
- 
-    ]
-  },
-  //Niijima Palace Items map
-  {
-    "item_count": 1,
-    "children": [
-      {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Main Floor/Main Floor Lobby Chest",
-            "name": "Main Floor Lobby Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Niijima_Palace",
-            "x": 791,
-            "y": 379,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Main Floor/Staff Only Area East Chest",
-            "name": "Staff Only Area East Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Niijima_Palace",
-            "x": 576,
-            "y": 314,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Main Floor/Staff Only Area SW Chest",
-            "name": "Staff Only Area SW Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Niijima_Palace",
-            "x": 261,
-            "y": 352,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Main Floor/Staff Only Area Red Will Seed",
-            "name": "Staff Only Area Red Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Niijima_Palace",
-            "x": 158,
-            "y": 409,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Dice Game Area NW Locked Chest",
-            "name": "Dice Game Area NW Locked Chest"
-          }
-        ],
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1014,
             "y": 137,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Dice Game Area Blocked Stairs Chest",
-            "name": "Dice Game Area Blocked Stairs Chest"
-          }
-        ],
+	    {
+		//ID 0x2000099C
+        "name": "Dice Game Area Blocked Stairs Chest",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1190,
             "y": 243,
-			"size": 20
+			      "size": 20
           }
-        ]
+        ] 
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Dice Game Area SE Chest",
-            "name": "Dice Game Area SE Chest"
-          }
-        ],
+	    {
+		//ID 0x20000996
+        "name": "Dice Game Area SE Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1260,
             "y": 419,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Dice Game Area Upper Floor Chest",
-            "name": "Dice Game Area Upper Floor Chest"
-          }
-        ],
+	    {
+		//ID 0x2000099D
+        "name": "Dice Game Area Upper Floor Chest",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1152,
             "y": 299,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Slot Room Above Entrance Chest",
-            "name": "Slot Room Above Entrance Chest"
-          }
-        ],
-        "map_locations": [
+	    {
+		//ID 0x2000099E
+        "name": "Slot Room Above Entrance Chest",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+          "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 675,
             "y": 587,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Slot Room Near Green Panel Chest",
-            "name": "Slot Room Near Green Panel Chest"
-          }
-        ],
+	    {
+		//ID 0x20000997
+        "name": "Slot Room Near Green Panel Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 461,
             "y": 613,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Slot Room Green Will Seed",
-            "name": "Slot Room Green Will Seed"
-          }
-        ],
+	    {
+		  // ID 0x200013FC
+        "name": "Slot Room Green Will Seed",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+		    "chest_unopened_img": "images/items/GreenSeed.png",
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 312,
             "y": 638,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy Members Floor/Slot Room Behind Giant Slot Chest",
-            "name": "Slot Room Behind Giant Slot Chest"
-          }
-        ],
+	    {
+		//ID 0x20000998
+        "name": "Slot Room Behind Giant Slot Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 71,
             "y": 595,
-			"size": 20
+			      "size": 20
           }
         ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/High Limit Lobby Locked Chest",
-            "name": "High Limit Lobby Locked Chest"
-          }
-        ],
+      }
+    ]
+  },
+
+  {
+    "name": "Casino of Jealousy High Limit",
+    "access_rules": ["Security_Keycard, Casino_Membership_Card, High_Limit_Card"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+		//ID 0x200009A6
+        "name": "High Limit Lobby Locked Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1057,
             "y": 1023,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/Hight Limit Lobby Blue Will Seed",
-            "name": "Hight Limit Lobby Blue Will Seed"
-          }
-        ],
+	    {
+		  //ID 0x200013FD
+        "name": "Hight Limit Lobby Blue Will Seed",
+        "sections":[{
+          "access_rules": ["Grappling_Hook"]
+        }],
+		    "chest_unopened_img": "images/items/BlueSeed.png",
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1065,
             "y": 825,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/House of Darkness Near Vent Dead End Chest",
-            "name": "House of Darkness Near Vent Dead End Chest"
-          }
-        ],
+	    {
+		//ID 0x2000099B
+        "name": "House of Darkness Near Vent Dead End Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 667,
             "y": 922,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/House of Darkness South Small Room Chest",
-            "name": "House of Darkness South Small Room Chest"
-          }
-        ],
+	    {
+		//ID 0x2000099A
+        "name": "House of Darkness South Small Room Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 550,
             "y": 996,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/House of Darkness North Room Chest",
-            "name": "House of Darkness North Room Chest"
-          }
-        ],
+	    {
+		//ID 0x20000999
+        "name": "House of Darkness North Room Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 467,
             "y": 836,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/House of Darkness Exit Locked Chest",
-            "name": "House of Darkness Exit Locked Chest"
-          }
-        ],
+	    {
+		//ID 0x200009A7
+        "name": "House of Darkness Exit Locked Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 340,
             "y": 913,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/House of Darkness Near Miniboss Locked Chest",
-            "name": "House of Darkness Near Miniboss Locked Chest"
-          }
-        ],
+	    {
+		//ID 0x200009A7
+        "name": "House of Darkness Near Miniboss Locked Chest",
+        "sections":[{}],
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 71,
             "y": 886,
-			"size": 20
+			      "size": 20
           }
         ]
       },
-	  {
-        "sections": [
-          {
-            "ref": "Casino of Jealousy High Limit/Casino Boss",
-            "name": "Casino Boss"
-          }
-        ],
+	  
+	  
+	    {
+		// ID 
+        "name": "Casino Boss",
+        "sections":[{
+          "access_rules": ["$hasBossAccess|6"]
+        }],
+		    "chest_unopened_img": "images/Bosses/Casino_Boss.png",
+		    "chest_opened_img": "images/Bosses/Skull.png",
         "map_locations": [
           {
             "map": "Niijima_Palace",
             "x": 1266,
             "y": 1170,
-			"size": 20
+			      "size": 20
           }
         ]
-      },
+      }
+
  
-      
     ]
-  },
+  }
+  
   
  
 ]

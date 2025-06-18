@@ -33,19 +33,19 @@
   {
     "name": "Red Lust Seed",
     "type": "toggle",
-	"img": "images/items/Will_Seed.png",
+    "img": "images/items/Will_Seed.png",
     "codes": "Red_Lust_Seed"
   },
   {
     "name": "Green Lust Seed",
     "type": "toggle",
-	"img": "images/items/Will_Seed.png",
+	  "img": "images/items/Will_Seed.png",
     "codes": "Green_Lust_Seed"
   },
   {
     "name": "Blue Lust Seed",
     "type": "toggle",
-	"img": "images/items/Will_Seed.png",
+    "img": "images/items/Will_Seed.png",
     "codes": "Blue_Lust_Seed"
   },
   
@@ -53,28 +53,56 @@
     "name": "Lust Seeds",
     "type": "progressive",
     "codes": "Lust_Seeds",
-	"allow_disabled": false,
+	  "allow_disabled": false,
     "stages": [
       {"img": "images/items/Will_Seed.png"},
-	  {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
       {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
       {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
       {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
       {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
-	  {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
-	  {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
     ]
   },
   
   {
-    "name": "Vanity Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
-    "codes": "Vanity_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+    "name": "Red Vanity Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Vanity_Seed"
   },
+  {
+    "name": "Green Vanity Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Vanity_Seed"
+  },
+  {
+    "name": "Blue Vanity Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Vanity_Seed"
+  },
+  
+  {
+    "name": "Vanity Seeds",
+    "type": "progressive",
+    "codes": "Vanity_Seeds",
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
+  },
+
+
   {
     "name": "Keycard",
     "type": "toggle",
@@ -86,19 +114,49 @@
     "type": "consumable",
     "img": "images/items/Key.png",
     "codes": "Bank_Keys",
-	"initial_quantity": 0,
+	  "initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 2
   },
+
+
+  {
+    "name": "Red Gluttony Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Gluttony_Seed"
+  },
+  {
+    "name": "Green Gluttony Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Gluttony_Seed"
+  },
+  {
+    "name": "Blue Gluttony Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Gluttony_Seed"
+  },
+  
   {
     "name": "Gluttony Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
+    "type": "progressive",
     "codes": "Gluttony_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
   },
+
+
   {
     "name": "Stolen Papyrus",
     "type": "toggle",
@@ -110,7 +168,7 @@
     "type": "consumable",
     "img": "images/items/Abyss_Gem.png",
     "codes": "Abyss_Gems",
-	"initial_quantity": 0,
+	  "initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 2
   },
@@ -125,33 +183,88 @@
     "type": "consumable",
     "img": "images/items/Sanctuary_Gem.png",
     "codes": "Sanctuary_Gems",
-	"initial_quantity": 0,
+	  "initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 2
   },
+
+  {
+    "name": "Red Wrath Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Wrath_Seed"
+  },
+  {
+    "name": "Green Wrath Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Wrath_Seed"
+  },
+  {
+    "name": "Blue Wrath Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Wrath_Seed"
+  },
+  
   {
     "name": "Wrath Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
+    "type": "progressive",
     "codes": "Wrath_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
   },
+
   {
     "name": "Chief Director ID",
     "type": "toggle",
     "img": "images/items/Chief_Director_ID.png",
     "codes": "Chief_Director_ID"
   },
+  
+  {
+    "name": "Red Greed Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Greed_Seed"
+  },
+  {
+    "name": "Green Greed Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Greed_Seed"
+  },
+  {
+    "name": "Blue Greed Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Greed_Seed"
+  },
+  
   {
     "name": "Greed Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
+    "type": "progressive",
     "codes": "Greed_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
   },
   
   {
@@ -174,13 +287,39 @@
   },
   
   {
+    "name": "Red Jealousy Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Jealousy_Seed"
+  },
+  {
+    "name": "Green Jealousy Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Jealousy_Seed"
+  },
+  {
+    "name": "Blue Jealousy Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Jealousy_Seed"
+  },
+  
+  {
     "name": "Jealousy Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
+    "type": "progressive",
     "codes": "Jealousy_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
   },
   
   {
@@ -191,13 +330,39 @@
   },
   
   {
+    "name": "Red Pride Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Pride_Seed"
+  },
+  {
+    "name": "Green Pride Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Pride_Seed"
+  },
+  {
+    "name": "Blue Pride Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Pride_Seed"
+  },
+  
+  {
     "name": "Pride Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
+    "type": "progressive",
     "codes": "Pride_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
   },
   
   {
@@ -205,7 +370,7 @@
     "type": "consumable",
     "img": "images/items/Vermillion_Disk.png",
     "codes": "Vermillion_Disk",
-	"initial_quantity": 0,
+	  "initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 2
   },
@@ -222,20 +387,46 @@
     "type": "consumable",
     "img": "images/items/Old_Videotape.png",
     "codes": "Old_Videotape",
-	"initial_quantity": 0,
+	  "initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 3
   },
   
   {
-    "name": "Sorrow Seeds",
-    "type": "consumable",
-    "img": "images/items/Will_Seed.png",
-    "codes": "Sorrow_Seeds",
-	"initial_quantity": 0,
-    "overlay_background": "#000000",
-    "max_quantity": 3
+    "name": "Red Sorrow Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Red_Sorrow_Seed"
   },
+  {
+    "name": "Green Sorrow Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Green_Sorrow_Seed"
+  },
+  {
+    "name": "Blue Sorrow Seed",
+    "type": "toggle",
+	  "img": "images/items/Will_Seed.png",
+    "codes": "Blue_Sorrow_Seed"
+  },
+  
+  {
+    "name": "Sorrow Seeds",
+    "type": "progressive",
+    "codes": "Sorrow_Seeds",
+	  "allow_disabled": false,
+    "stages": [
+      {"img": "images/items/Will_Seed.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Red.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Red Green.png"},
+      {"img_mods": "overlay|images/items/SeedsOverlay/Blue Red.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Blue Green.png"},
+	    {"img_mods": "overlay|images/items/SeedsOverlay/Three Seeds.png"}
+    ]
+  }
 
 
 ]

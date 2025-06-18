@@ -4,59 +4,120 @@
     "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 60,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		  //ID 0x200001C2
         "name": "Old Castle 1F Armory Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 166,
+            "y": 918,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001D6
         "name": "Old Castle 2F Chest 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 876,
+            "y": 1050,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001D5
         "name": "Old Castle 2F Gate Puzzle Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 972,
+            "y": 850,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001C4
         "name": "Old Castle 2F Kitchen Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1054,
+            "y": 994,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001C5
         "name": "Old Castle 2F Guarded Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1024,
+            "y": 824,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x20000173
         "name": "Old Castle 3F Top of Stairs Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			"access_rules": ["Grappling_Hook"],
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1316,
+            "y": 818,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001D3
         "name": "Old Castle 3F Near Library Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			"access_rules": ["Grappling_Hook"],
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1252,
+            "y": 1036,
+			"size": 20
+          }
+        ]
       },
 
     ]
@@ -66,108 +127,233 @@
     "access_rules": ["Kamoshidas_Medal, Grappling_Hook"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 90,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
 	  {
 		  //ID 0x200001D4
         "name": "Old Castle 3F Chapel Lower Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1450,
+            "y": 946,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001CA
         "name": "Old Castle 3F Chapel Upper Chest 1",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1550,
+            "y": 1068,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001C9
         "name": "Old Castle 3F Chapel Upper Chest 2",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1444,
+            "y": 1068,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001CB
         "name": "Old Castle 3F Near Will Seed Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1570,
+            "y": 886,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200013FB
         "name": "Old Castle 3F Red Will Seed",
+		"sections":[
+			{
+			}
+		],
 		"chest_unopened_img": "images/items/RedSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1396,
+            "y": 854,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001D8
         "name": "Old Castle 3F Staircase before Roof",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1602,
+            "y": 750,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001CC
         "name": "Roof below Will Seed Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1194,
+            "y": 538,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200013FC
         "name": "Roof Green Will Seed",
-		"access_rules": ["Grappling_Hook"],
+		"sections":[
+			{
+			}
+		],
 		"chest_unopened_img": "images/items/GreenSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 1130,
+            "y": 604,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200013FD
         "name": "Blue Will Seed",
-		"access_rules": ["Grappling_Hook"],
+		"sections":[
+			{
+			}
+		],
 		"chest_unopened_img": "images/items/BlueSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 150,
+            "y": 562,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001C6
         "name": "Old Castle 1F Central Hall Left Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 406,
+            "y": 554,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001C3
         "name": "Old Castle 1F Central Hall Right Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 310,
+            "y": 948,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001D9
         "name": "Tower Lower lvl Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 426,
+            "y": 948,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001C7
         "name": "Tower Middle lvl First Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 458,
+            "y": 358,
+			"size": 20
+          }
+        ]
       },
 	  {
 		  //ID 0x200001CD
         "name": "Tower Middle lvl Near Stairs Chest",
-		"access_rules": ["Grappling_Hook"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
+          {
+            "map": "Kamoshida_Palace",
+            "x": 356,
+            "y": 354,
+			"size": 20
+          }
+        ]
       },
 	  
 	
@@ -178,405 +364,15 @@
     "access_rules": ["Kamoshidas_Medal, Left_Eye, Right_Eye, Grappling_Hook"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 120,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
 		{
 		  //ID 0x200001D2
         "name": "Tower Upper lvl Axe Trap Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		  //ID 0x200001CE
-        "name": "Tower Upper lvl After Trap Room Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		  //ID 0x200001C8
-        "name": "Tower Upper lvl Shifting Walls Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		  //ID 0x200001D1
-        "name": "Throne Room Hallway Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		  //ID 0x200001CF
-        "name": "Throne Room Grapple Window Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  
-	  {
-		  //ID 
-        "name": "Castle Boss",
-		"access_rules": "$hasBossAccess|1",
-		"chest_unopened_img": "images/Bosses/Castle_Boss.png",
-		"chest_opened_img": "images/Bosses/Skull.png",
-      },
-	
-	]
-  },
-  //Castle of Lust Items map
-  {
-    "item_count": 1,
-    "children": [
-      {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 1F Armory Chest",
-            "name": "Old Castle 1F Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 166,
-            "y": 918,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 2F Chest 1",
-            "name": "Old Castle 2F Chest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 876,
-            "y": 1050,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 2F Gate Puzzle Chest",
-            "name": "Old Castle 2F Gate Puzzle Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 972,
-            "y": 850,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 2F Kitchen Chest",
-            "name": "Old Castle 2F Kitchen Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1054,
-            "y": 994,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 2F Guarded Chest",
-            "name": "Old Castle 2F Guarded Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1024,
-            "y": 824,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 3F Top of Stairs Chest",
-            "name": "Old Castle 3F Top of Stairs Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1316,
-            "y": 818,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust Without Medal/Old Castle 3F Near Library Chest",
-            "name": "Old Castle 3F Near Library Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1252,
-            "y": 1036,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 3F Chapel Lower Chest",
-            "name": "Old Castle 3F Chapel Lower Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1450,
-            "y": 946,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 3F Chapel Upper Chest 1",
-            "name": "Old Castle 3F Chapel Upper Chest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1550,
-            "y": 1068,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 3F Chapel Upper Chest 2",
-            "name": "Old Castle 3F Chapel Upper Chest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1444,
-            "y": 1068,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 3F Near Will Seed Chest",
-            "name": "Old Castle 3F Near Will Seed Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1570,
-            "y": 886,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 3F Red Will Seed",
-            "name": "Old Castle 3F Red Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1396,
-            "y": 854,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 3F Staircase before Roof",
-            "name": "Old Castle 3F Staircase before Roof"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1602,
-            "y": 750,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Roof below Will Seed Chest",
-            "name": "Roof below Will Seed Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1194,
-            "y": 538,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Roof Green Will Seed",
-            "name": "Roof Green Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 1130,
-            "y": 604,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Blue Will Seed",
-            "name": "Blue Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 150,
-            "y": 562,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Tower Lower lvl Chest",
-            "name": "Tower Lower lvl Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 406,
-            "y": 554,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 1F Central Hall Left Chest",
-            "name": "Old Castle 1F Central Hall Left Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 310,
-            "y": 948,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Old Castle 1F Central Hall Right Chest",
-            "name": "Old Castle 1F Central Hall Right Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 426,
-            "y": 948,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Tower Middle lvl First Chest",
-            "name": "Tower Middle lvl First Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 458,
-            "y": 358,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Medal/Tower Middle lvl Near Stairs Chest",
-            "name": "Tower Middle lvl Near Stairs Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Kamoshida_Palace",
-            "x": 356,
-            "y": 354,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Eyes/Tower Upper lvl Axe Trap Chest",
-            "name": "Tower Upper lvl Axe Trap Chest"
-          }
-        ],
-        "map_locations": [
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 400,
@@ -586,13 +382,13 @@
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Eyes/Tower Upper lvl After Trap Room Chest",
-            "name": "Tower Upper lvl After Trap Room Chest"
-          }
-        ],
-        "map_locations": [
+		  //ID 0x200001CE
+        "name": "Tower Upper lvl After Trap Room Chest",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 486,
@@ -602,13 +398,13 @@
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Eyes/Tower Upper lvl Shifting Walls Chest",
-            "name": "Tower Upper lvl Shifting Walls Chest"
-          }
-        ],
-        "map_locations": [
+		  //ID 0x200001C8
+        "name": "Tower Upper lvl Shifting Walls Chest",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 506,
@@ -618,13 +414,13 @@
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Eyes/Throne Room Hallway Chest",
-            "name": "Throne Room Hallway Chest"
-          }
-        ],
-        "map_locations": [
+		  //ID 0x200001D1
+        "name": "Throne Room Hallway Chest",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 894,
@@ -634,13 +430,13 @@
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Eyes/Throne Room Grapple Window Chest",
-            "name": "Throne Room Grapple Window Chest"
-          }
-        ],
-        "map_locations": [
+		  //ID 0x200001CF
+        "name": "Throne Room Grapple Window Chest",
+		"sections":[
+			{
+			}
+		],
+		"map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 870,
@@ -651,13 +447,16 @@
       },
 	  
 	  {
-        "sections": [
-          {
-            "ref": "Castle of Lust After Eyes/Castle Boss",
-            "name": "Castle Boss"
-          }
-        ],
-        "map_locations": [
+		  //ID 
+        "name": "Castle Boss",
+		"sections":[
+			{
+				"access_rules": "$hasBossAccess|1",
+			}
+		],
+		"chest_unopened_img": "images/Bosses/Castle_Boss.png",
+		"chest_opened_img": "images/Bosses/Skull.png",
+		"map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 834,
@@ -666,11 +465,7 @@
           }
         ]
       },
-	  
- 
-      
-    ]
+	
+	]
   },
-  
- 
 ]

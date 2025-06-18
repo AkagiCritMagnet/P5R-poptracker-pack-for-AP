@@ -22,16 +22,16 @@
                         },
 						{
                             "type": "group",
-                            "header": "Dungeons Items",
+                            "header": "Palace Specific Items",
                             "dock": "top",
                             "content": {
                                 "type": "layout",
                                 "key": "Dungeons_items"
                             }
-                        },
+                        }
                         
                     ]
-                }, 
+                }
             ]
         }
     },
@@ -70,7 +70,7 @@
                                 "v_alignment": "center",
                                 "key": "Dungeons_items"
                             }
-                        },
+                        }
                         
                     ]
                 },
@@ -166,7 +166,7 @@
                                     "Maruki_Palace"
                                 ]
                             }
-                        },
+                        }
                         
 
                     ]

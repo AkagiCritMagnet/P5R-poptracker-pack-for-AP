@@ -4,60 +4,103 @@
     "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1469,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       {
 		//ID 0x2000115F
         "name": "Entrance Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 892,
+            "y": 630,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x2000115E
         "name": "Entrance Hall Back Room Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 924,
+            "y": 140,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20001160
         "name": "Corridor Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 552,
+            "y": 1098,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 
         "name": "Test Track Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 606,
+            "y": 832,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x2000116D
         "name": "Auditorium Locked Chest",
-		"access_rules": "Grappling_Hook",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": "Grappling_Hook"
+        }],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 924,
+            "y": 1180,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20001165
         "name": "Top of Warehouse Chest",
-		"access_rules": ["Grappling_Hook, Personnel_ID"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": ["Grappling_Hook, Personnel_ID"]
+        }],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 172,
+            "y": 1064,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20001166
         "name": "Warehouse Behind Container Chest",
-		"access_rules": ["Grappling_Hook, Personnel_ID"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": ["Grappling_Hook, Personnel_ID"]
+        }],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 462,
+            "y": 966,
+			      "size": 20
+          }
+        ]
       },
     ]
   },
@@ -67,68 +110,121 @@
     "access_rules": ["Grappling_Hook, Personnel_ID"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1500,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
+    "children": [
       
 	  {
 		//ID 0x20001171
         "name": "Monitoring Room 1F Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1526,
+            "y": 988,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x2000116B
         "name": "Monitoring Room Upstairs Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1396,
+            "y": 806,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x2000116F
         "name": "Monitoring Room Near Will Seed Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1322,
+            "y": 700,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x200013FB
         "name": "Monitoring Room Red Will Seed",
-		"chest_unopened_img": "images/items/RedSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{}],
+		    "chest_unopened_img": "images/items/RedSeed.png",
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1262,
+            "y": 732,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20001168
         "name": "Research Ward 1F Chest",
-		"access_rules": ["$has|Old_Videotape|1"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|1"]
+        }],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1860,
+            "y": 1178,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20001169
         "name": "Research Ward 2F Chest",
-		"access_rules": ["$has|Old_Videotape|1"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|1"]
+        }],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1918,
+            "y": 900,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x20001170
         "name": "Research Ward 4F Locked Chest",
-		"access_rules": ["$has|Old_Videotape|1"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|1"]
+        }],
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1880,
+            "y": 506,
+			      "size": 20
+          }
+        ]
       },
 	  {
 		//ID 0x200013FC
         "name": "Research Ward Green Will Seed",
-		"access_rules": ["$has|Old_Videotape|1"],
-		"chest_unopened_img": "images/items/GreenSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|1"]
+        }],
+        "chest_unopened_img": "images/items/GreenSeed.png",
+        "map_locations": [
+          {
+            "map": "Maruki_Palace",
+            "x": 1658,
+            "y": 778,
+			      "size": 20
+          }
+        ]
       },
 
  
@@ -141,497 +237,153 @@
     "access_rules": ["Grappling_Hook, Personnel_ID, $has|Old_Videotape|2"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "Overworld",
-        "x": 1531,
-        "y": 90,
-        "size": 30
-      }
-    ],
-    "sections": [
-      
+    "children": [
 	  {
 		//ID 0x20001162
         "name": "Exam Room 2nd Question Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20001162
-        "name": "Exam Room Final Question Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20001167
-        "name": "Counselling Room Top Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000116A
-        "name": "Counselling Room East Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x2000116E
-        "name": "Counselling Room West Locked Chest",
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20001163
-        "name": "Twilight Corridor First Half Chest",
-		"access_rules": ["$has|Old_Videotape|3"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20001173
-        "name": "Twilight Corridor Second Half Locked Chest",
-		"access_rules": ["$has|Old_Videotape|3"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x20001173
-        "name": "Twilight Corridor Near Will Seed Chest",
-		"access_rules": ["$has|Old_Videotape|3"],
-		"chest_unopened_img": "images/items/chest_closed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		//ID 0x200013FD
-        "name": "Twilight Corridor Blue Will Seed",
-		"access_rules": ["$has|Old_Videotape|3"],
-		"chest_unopened_img": "images/items/BlueSeed.png",
-		"chest_opened_img": "images/items/chest_opened.png",
-      },
-	  {
-		// ID 
-        "name": "Laboratory Boss",
-		"access_rules": ["$has|Old_Videotape|3, $hasBossAccess|8"],
-		"chest_unopened_img": "images/Bosses/Lab_Boss.png",
-		"chest_opened_img": "images/Bosses/Skull.png",
-      },
-	  
-
- 
-    ]
-  },
-  
-  //Laboratory Items map
-  {
-    "item_count": 1,
-    "children": [
-      {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Entrance Chest",
-            "name": "Entrance Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 892,
-            "y": 630,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Entrance Hall Back Room Chest",
-            "name": "Entrance Hall Back Room Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 924,
-            "y": 140,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Corridor Chest",
-            "name": "Corridor Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 552,
-            "y": 1098,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Test Track Locked Chest",
-            "name": "Test Track Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 606,
-            "y": 832,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Auditorium Locked Chest",
-            "name": "Auditorium Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 924,
-            "y": 1180,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Top of Warehouse Chest",
-            "name": "Top of Warehouse Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 172,
-            "y": 1064,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Entrance/Warehouse Behind Container Chest",
-            "name": "Warehouse Behind Container Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 462,
-            "y": 966,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Monitoring Room 1F Locked Chest",
-            "name": "Monitoring Room 1F Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1526,
-            "y": 988,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Monitoring Room Upstairs Chest",
-            "name": "Monitoring Room Upstairs Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1396,
-            "y": 806,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Monitoring Room Near Will Seed Locked Chest",
-            "name": "Monitoring Room Near Will Seed Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1322,
-            "y": 700,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Monitoring Room Red Will Seed",
-            "name": "Monitoring Room Red Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1262,
-            "y": 732,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Research Ward 1F Chest",
-            "name": "Research Ward 1F Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1860,
-            "y": 1178,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Research Ward 2F Chest",
-            "name": "Research Ward 2F Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1918,
-            "y": 900,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Research Ward 4F Locked Chest",
-            "name": "Research Ward 4F Locked Chest"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1880,
-            "y": 506,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Research/Research Ward Green Will Seed",
-            "name": "Research Ward Green Will Seed"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Maruki_Palace",
-            "x": 1658,
-            "y": 778,
-			"size": 20
-          }
-        ]
-      },
-	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Exam Room 2nd Question Chest",
-            "name": "Exam Room 2nd Question Chest"
-          }
-        ],
+        "sections": [{}],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 1786,
             "y": 384,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Exam Room Final Question Chest",
-            "name": "Exam Room Final Question Chest"
-          }
-        ],
+		//ID 0x20001162
+        "name": "Exam Room Final Question Chest",
+        "sections": [{}],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 1982,
             "y": 314,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Counselling Room Top Chest",
-            "name": "Counselling Room Top Chest"
-          }
-        ],
+		//ID 0x20001167
+        "name": "Counselling Room Top Chest",
+        "sections": [{}],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 1432,
             "y": 316,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Counselling Room East Chest",
-            "name": "Counselling Room East Chest"
-          }
-        ],
+		//ID 0x2000116A
+        "name": "Counselling Room East Chest",
+        "sections": [{}],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 1470,
             "y": 212,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Counselling Room West Locked Chest",
-            "name": "Counselling Room West Locked Chest"
-          }
-        ],
+		//ID 0x2000116E
+        "name": "Counselling Room West Locked Chest",
+        "sections": [{}],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 1244,
             "y": 250,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor First Half Chest",
-            "name": "Twilight Corridor First Half Chest"
-          }
-        ],
+		//ID 0x20001163
+        "name": "Twilight Corridor First Half Chest",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|3"]
+        }],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 494,
             "y": 480,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor Second Half Locked Chest",
-            "name": "Twilight Corridor Second Half Locked Chest"
-          }
-        ],
+		//ID 0x20001173
+        "name": "Twilight Corridor Second Half Locked Chest",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|3"]
+        }],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 88,
             "y": 220,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor Near Will Seed Chest",
-            "name": "Twilight Corridor Near Will Seed Chest"
-          }
-        ],
+		//ID 0x20001173
+        "name": "Twilight Corridor Near Will Seed Chest",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|3"]
+        }],
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 364,
             "y": 390,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Twilight Corridor Blue Will Seed",
-            "name": "Twilight Corridor Blue Will Seed"
-          }
-        ],
+		//ID 0x200013FD
+        "name": "Twilight Corridor Blue Will Seed",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|3"]
+        }],
+		    "chest_unopened_img": "images/items/BlueSeed.png",
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 278,
             "y": 592,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
-        "sections": [
-          {
-            "ref": "Laboratory of Melancholy Treatment/Laboratory Boss",
-            "name": "Laboratory Boss"
-          }
-        ],
+		// ID 
+        "name": "Laboratory Boss",
+        "sections": [{
+          "access_rules": ["$has|Old_Videotape|3, $hasBossAccess|8"]
+        }],
+		    "chest_unopened_img": "images/Bosses/Lab_Boss.png",
+		    "chest_opened_img": "images/Bosses/Skull.png",
         "map_locations": [
           {
             "map": "Maruki_Palace",
             "x": 362,
             "y": 728,
-			"size": 20
+			      "size": 20
           }
         ]
-      },
+      }
 	  
+
  
-      
     ]
-  },
-  
- 
+  }
 ]
