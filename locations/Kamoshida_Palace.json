@@ -8,26 +8,20 @@
       {
 		  //ID 0x200001C2
         "name": "Old Castle 1F Armory Chest",
-		"sections":[
-			{
-			}
-		],
-		"map_locations": [
+		    "sections":[{}],
+		    "map_locations": [
           {
             "map": "Kamoshida_Palace",
             "x": 166,
             "y": 918,
-			"size": 20
+			      "size": 20
           }
         ]
       },
 	  {
 		  //ID 0x200001D6
         "name": "Old Castle 2F Chest 1",
-		"sections":[
-			{
-			}
-		],
+		"sections":[{}],
 		"map_locations": [
           {
             "map": "Kamoshida_Palace",
@@ -40,10 +34,7 @@
 	  {
 		  //ID 0x200001D5
         "name": "Old Castle 2F Gate Puzzle Chest",
-		"sections":[
-			{
-			}
-		],
+		"sections":[{}],
 		"map_locations": [
           {
             "map": "Kamoshida_Palace",
